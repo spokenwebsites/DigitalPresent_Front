@@ -9,60 +9,7 @@ var width = 500,
       return numSpirals * Math.PI * r;
     };
 
-    // used to assign nodes color by group
-    var color = d3.scaleOrdinal(d3.schemeCategory10);
-
-    var r = d3.min([width, height]) / 2 - 40;
-
-    var radius = d3.scaleLinear()
-      .domain([start, end])
-      .range([40, r]);
-
-      //usage:
-//   readTextFile("/coen_bloodbank_full-main/Spiralcondegram.json", function(text){
-//     var data = JSON.parse(text);
-//     console.log(data);
-// });
-
-
-    var svg = d3.select("#chart").append("svg")
-      .attr("width", width + margin.right + margin.left)
-      .attr("height", height + margin.left + margin.right)
-      .append("g")
-      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-
-    var points = d3.range(start, end + 0.001, (end - start) / 1000);
-
-    var spiral = d3.radialLine()
-      .curve(d3.curveCardinal)
-      .angle(theta)
-      .radius(radius);
-
-    var path = svg.append("path")
-      .datum(points)
-      .attr("id", "spiral")
-      .attr("d", spiral)
-      .style("fill", "none")
-      .style("stroke", "steelblue");
-
-    var spiralLength = path.node().getTotalLength(),
-        N = 100,
-        barWidth = (spiralLength / N) - 1;
-    // var someData = [];
-    // for (var i = 0; i < N; i++) {
-    //   var currentDate = new Date();
-    
-      currentDate.setDate(currentDate.getDate() + i);
-       // console.log(currentDate.getDate() + i)
-       
-    //   someData.push({
-    //     date: currentDate,
-    //     value: Math.random()
-    //     // group: currentDate.getMonth()
-    //   })
-    // }
-
-   var jsonData=[
+    var jsonData=[
       {
         'date':'09-27-2021',
         "value": 2
@@ -1121,6 +1068,61 @@ var width = 500,
         "value": 10
   }
       ];
+
+    // used to assign nodes color by group
+    var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+    var r = d3.min([width, height]) / 2 - 40;
+
+    var radius = d3.scaleLinear()
+      .domain([start, end])
+      .range([40, r]);
+
+      //usage:
+//   readTextFile("/coen_bloodbank_full-main/Spiralcondegram.json", function(text){
+//     var data = JSON.parse(text);
+//     console.log(data);
+// });
+
+
+    var svg = d3.select("#chart").append("svg")
+      .attr("width", width + margin.right + margin.left)
+      .attr("height", height + margin.left + margin.right)
+      .append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    var points = d3.range(start, end + 0.001, (end - start) / 1000);
+
+    var spiral = d3.radialLine()
+      .curve(d3.curveCardinal)
+      .angle(theta)
+      .radius(radius);
+
+    var path = svg.append("path")
+      .datum(points)
+      .attr("id", "spiral")
+      .attr("d", spiral)
+      .style("fill", "none")
+      .style("stroke", "steelblue");
+
+    var spiralLength = path.node().getTotalLength(),
+        N = jsonData.length,
+        barWidth = (spiralLength / N) - 1;
+    // var someData = [];
+    // for (var i = 0; i < N; i++) {
+    //   var currentDate = new Date();
+    
+    //  currentDate.setDate(currentDate.getDate() + i);
+       // console.log(currentDate.getDate() + i)
+       
+    //   someData.push({
+    //     date: currentDate,
+    //     value: Math.random()
+    //     // group: currentDate.getMonth()
+    //   })
+    // }
+
+  
  
   var parseDate = d3.timeParse("%m-%d-%Y");
 
