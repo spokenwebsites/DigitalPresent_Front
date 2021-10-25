@@ -1,0 +1,3246 @@
+[
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8232",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60ec8da6a65041.99449209",
+        "date": "2020-10-30",
+        "type": "Performance Date",
+        "notes": "This event took place on FRIDAY, OCTOBER 30, 2020 AT 12:30 AM EDT",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60ec8deaecedc6.55667125",
+        "note": "Aaron Obedkoff",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "",
+      "contents": "\n84 people responded\nEvent by Ottawa International Writers Festival, VERSe Ottawa and Ottawa Public Library \/ Biblioth\u00e8que publique d'Ottawa\nOnline: writersfestival.org\nPublic  \u00b7 Anyone on or off Facebook\nTun into this episode of our Writers Radio podcast as poet Nina Jane Drystek hosts conversations with Sachiko Murakami and Jillian Christmas, two incredible poets published by Vancouver\u2019s Arsenal Pulp Press.\nRSVP to get the link in your inbox or tune in when the episode is up: https:\/\/writersfestival.org\/...\/spotlight-on-arsenal-pulp...\nRender is Sachiko Murakami's intimate and unflinching poetic memoir. In it, she travels the non-linear path of addiction to recovery, how it shifts over time, and what happens when it is translated through poetry. Looking beyond the straightforward, happily-ever-after narrative, Murakami wades through the aftermath of her addiction and questions what happens to trauma when it is put down on the page - and all the ways in which it can be rendered.\nIn The Gospel of Breaking, Jillian Christmas extracts from family history, queer lineage, and the political landscape of a racialized life to create a rich, softly defiant collection of poems.\nChristmas draws a circle around the things she calls \"holy\": the family line that cannot find its root but survived to fill the skies with radiant flesh; the body, broken and unbroken and broken and new again; the lover lost, the friend lost, and the loss itself; and the hands that hold them all with brilliant, tender care.\nABOUT THE POETS\nJillian Christmas is the former Artistic Director of Vancouver's Verses Festival of Words. An educator, organizer, and advocate in the arts community, utilizing an anti-oppressive lens, Jillian has performed and facilitated workshops across North America. She lives in Vancouver.\nSachiko Murakami is the author of three previous poetry collections, including The Invisibility Exhibit (shortlisted for the Governor General's Literary Award). As a literary worker, she has edited poetry, worked for trade organizations, hosted reading series, organized conferences, sat on juries, and judged prizes."
+    },
+    "Creators": [
+      {
+        "id": "60ec8ca369f893.27630146",
+        "url": "",
+        "name": "Drystek, Nina Jane ",
+        "role": [
+          {
+            "id": "60ec8ca8268c05.27250788",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "Event host "
+      },
+      {
+        "id": "60ec8cc80f7443.79771700",
+        "url": "http:\/\/viaf.org\/viaf\/78604094",
+        "name": "Murakami, Sachiko ",
+        "role": [
+          {
+            "id": "60ec8ccc4aacc8.33177459",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1980-",
+        "notes": "Bio taken from Facebook Post: Sachiko Murakami is the author of three previous poetry collections, including The Invisibility Exhibit (shortlisted for the Governor General's Literary Award). As a literary worker, she has edited poetry, worked for trade organizations, hosted reading series, organized conferences, sat on juries, and judged prizes."
+      },
+      {
+        "id": "60ec8d0d84e365.11263937",
+        "url": "http:\/\/viaf.org\/viaf\/40157340760609922265",
+        "name": "Christmas, Jillian ",
+        "role": [
+          {
+            "id": "60ec8d258fe904.39210976",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1983-",
+        "notes": "Bio taken from Facebook post: Jillian Christmas is the former Artistic Director of Vancouver's Verses Festival of Words. An educator, organizer, and advocate in the arts community, utilizing an anti-oppressive lens, Jillian has performed and facilitated workshops across North America. She lives in Vancouver."
+      }
+    ],
+    "Location": [
+      {
+        "id": "60ec8dd6296635.02336696",
+        "url": "https:\/\/www.openstreetmap.org\/?mlat=45.44378&mlon=-75.61149#map=19\/45.44378\/-75.61149",
+        "notes": "\"Online platform\"",
+        "venue": "Virtual Location",
+        "address": "16 Elvina St. Ottawa, Ontario K1J 7L1 Canada",
+        "latitude": "45.443830",
+        "longitude": "-75.611557"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60ec8c7ac55e08.86004948",
+          "value": "Conversation"
+        },
+        {
+          "id": "60ec8c7e866456.94422148",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Spotlight on Arsenal Pulp Press: Sachiko Murakami and Jillian Christmas",
+      "language": "English",
+      "title_note": "",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60ec8d61b88428.46440553",
+        "side": "",
+        "image": "..\/Uploads\/8232\/VERSe-Ottawa_2020-10-30_122410276_2048480608615620_115088966359476249_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60ec8d6e04b402.82360330",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/writersfest\/photos\/gm.2771494129797854\/2048480605282287",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60ec8d83f3f058.60040924",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "VERSe-Ottawa_2020-10-30_122410276_2048480608615620_115088966359476249_n.jpg",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1ZauDT2LJtPZrhKKgXYsLoX41sARX0GJx",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/versefest.ca\/"
+    }
+  },
+
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8156",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60e36a64337fd7.91630523",
+        "date": "2020-10-27",
+        "type": "Performance Date",
+        "notes": "This event took place on TUESDAY, AUGUST 25, 2020 AT 8 PM EDT \u2013 10 PM EDT",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60e36b858273b3.70704846",
+        "note": "Aaron Obedkoff",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "This content description taken from Facebook post for the event.",
+      "contents": "\n201 people responded\nEvent by Tree Reading Series\nOnline Event\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\n\nOn Tuesday, October 27th, Tree Reading returns for another energizing, insightful and communal online poetry event, including a workshop by Stephen Brockwell (7-8pm EST) an open mic and featured readings by nationally acclaimed poets Lauren Turner (Montreal) and Jillian Christmas (Vancouver).\nEvery aspect of the event is totally free of charge and will take place online, via Zoom. In order to sign up for the workshop, the open mic, and experience the featured readings, we will ask you to fill out a Google Form and then e-mail you a Zoom link a few hours before the event begins.\nThe event will be hosted by poet and spoken word artist Brandon Wint.\nPlease be advised that all times listed are Eastern time. We welcome readers, open mic performers and featured readers from all over Canada and the world. Please note the time difference that coincides with your region\/location.\nhttps:\/\/t.co\/SW6rb5BRAW?amp=1\n\nFEATURED READERS---\nLauren Turner is a disabled poet and author of the full-length collection, The Only Card in a Deck of Knives (Wolsak & Wynn, 2020) and the chapbook, We\u2019re Not Going to Do Better Next Time (knife | fork | book, 2018). Her work has appeared in Grain, Arc Magazine, PRISM, Poetry is Dead, Cosmonauts Avenue, The Puritan, canthius and elsewhere. She won the 2018 Short Grain Contest and was a finalist for the 2017 3Macs carte blanche Prize. She lives in Tiohti\u00e1:ke\/Montr\u00e9al on unceded Kanien\u2019keh\u00e1:ka land.\n\nJillian Christmas is a queer, black writer living on the unceded territories of the Squamish, Tsleil-Waututh and Musqueam people. An enthusiastic organizer and advocate in the Canadian arts community, her focus has been to increase anti-oppression initiatives in spoken word. She has executed programs in partnership with Toronto Poetry Project, The Chan Centre, Vancouver Opera, and more. Jillian has performed and facilitated spoken word workshops for youth and adults across the country and beyond. She is the author of The Gospel of Breaking (2020 with Arsenal Pulp Press)."
+    },
+    "Creators": [
+      {
+        "id": "60e36856711984.95896142",
+        "url": "http:\/\/viaf.org\/viaf\/63353484",
+        "name": "Brockwell, Stephen",
+        "role": [
+          {
+            "id": "60e3687b311fd8.20992775",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1963-",
+        "notes": ""
+      },
+      {
+        "id": "60e368a14b1410.93234602",
+        "url": "",
+        "name": "Turner, Lauren",
+        "role": [
+          {
+            "id": "60e368eb243ad3.43127223",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Bio from Facebook post:auren Turner is a disabled poet and author of the full-length collection, The Only Card in a Deck of Knives (Wolsak & Wynn, 2020) and the chapbook, We\u2019re Not Going to Do Better Next Time (knife | fork | book, 2018). Her work has appeared in Grain, Arc Magazine, PRISM, Poetry is Dead, Cosmonauts Avenue, The Puritan, canthius and elsewhere. She won the 2018 Short Grain Contest and was a finalist for the 2017 3Macs carte blanche Prize. She lives in Tiohti\u00e1:ke\/Montr\u00e9al on unceded Kanien\u2019keh\u00e1:ka land."
+      },
+      {
+        "id": "60e3696f9c6079.71274238",
+        "url": "http:\/\/viaf.org\/viaf\/40157340760609922265",
+        "name": "Christmas, Jillian",
+        "role": [
+          {
+            "id": "60e369762eb297.20559002",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1983-",
+        "notes": "Bio from Facebook post: illian Christmas is a queer, black writer living on the unceded territories of the Squamish, Tsleil-Waututh and Musqueam people. An enthusiastic organizer and advocate in the Canadian arts community, her focus has been to increase anti-oppression initiatives in spoken word. She has executed programs in partnership with Toronto Poetry Project, The Chan Centre, Vancouver Opera, and more. Jillian has performed and facilitated spoken word workshops for youth and adults across the country and beyond. She is the author of The Gospel of Breaking (2020 with Arsenal Pulp Press)."
+      }
+    ],
+    "Location": [
+      {
+        "id": "60e36b4e68c726.19304433",
+        "url": "https:\/\/www.openstreetmap.org\/#map=18\/45.42110\/-75.69125",
+        "notes": "\u201cOnline platform\u201d: \u201cZoom\"",
+        "venue": "Virtual Location",
+        "address": "Ottawa, Ontario, Canada",
+        "latitude": "45.4211060",
+        "longitude": "-75.6903080"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60e367e47cdff6.03747394",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Tree Reading Series ft. Jillian Christmas & Lauren Turner",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "Tree Reading Series ",
+      "title_source": "Taken from Facebook Post",
+      "subseries_title": ""
+    },
+    "Material_Description": [
+      {
+        "id": "60e369f52626c0.79186264",
+        "side": "",
+        "image": "..\/Uploads\/8156\/Tree-reading-series_2020-10-27_[121575322_3393984037356514_7981157136365145450_n].jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60e36a12ccd968.34128919",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/treereadingseries\/photos\/gm.811230826307084\/3393984027356515",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60e36a38449f87.19787211",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "Tree-reading-series_2020-10-27_121575322_3393984037356514_7981157136365145450_n.jpg",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1aY6qHwR-62bx_Uv8QV_rG8NJmppG99S9",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/www.treereadingseries.ca"
+    }
+  },
+
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8377",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60fdfc534dc755.85472066",
+        "date": "2020-09-15",
+        "type": "Performance Date",
+        "notes": "This event took place on TUESDAY, SEPTEMBER 15, 2020 AT 6:30 PM PDT \u2013 8:30 PM PDT",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60fdfc85e5b942.89054908",
+        "note": "Aaron Obedkoff ",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "",
+      "contents": "\n2 hr\n25 people responded\nEvent by Caitlin Press and Planet Earth Poetry\nOnline Event\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nThe first of our Tuesday night anthology readings will be the online Victoria launch of Sweet Water: Poems for the Watersheds, edited by Yvonne Blomer.\nBookseller for this event: Munro\u2019s Books (250-382-2464 munrobooks.com)\nSweet Water: Poems for the Watersheds gathers the voices of poets from across Canada, the US and the UK who write of water. Bottled, clouded, held in rain, in river, estuary and lake, sweet water is the planet\u2019s life force and the poets here examine it from every angle\u2014the pitcher plant, the beaver and the American Bull Frog, rain, clouds, smog, the many ducks and the salmon and the last lake sturgeon. Poets take us to the rivers they live along\u2014and grieve daily\u2014the Peace River Canyon, Chilcotin, Taylor River, the Humber River, Millstone River, the Fraser River, and more.\nREADERS include: Alisa Gordaneer, Richard Harrison, Jeremy Pataky, Marion Quednau, Rhonda Ganz, Susan Stenson, Bruce Hunter, Zach Wells, Ulrike Narwani, Harold Rhenisch, Tom Nesbitt, Anita Lahey, Kirsten Pendreigh, Barbara Black, Maureen Hynes, John Barton, Terry Ann Carter, Marlene Grand Maitre\nZoom link: \nhttps:\/\/us02web.zoom.us\/j\/89835161487...\nMeeting ID: 898 3516 1487\nPasscode: 726758\nRemember, you can also use the meeting ID and password to listen in on a landline or mobile phone! Find your local number:\nhttps:\/\/us02web.zoom.us\/u\/kdgAWL2C1w"
+    },
+    "Creators": [
+      {
+        "id": "60fdf8269a1540.50260785",
+        "url": "http:\/\/viaf.org\/viaf\/9277372",
+        "name": "Blomer, Yvonne ",
+        "role": [
+          {
+            "id": "60fdf82b035db2.58226710",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdf84c7d9be5.57129640",
+        "url": "http:\/\/viaf.org\/viaf\/73605164",
+        "name": "Gordaneer, Alisa",
+        "role": [
+          {
+            "id": "60fdf852948437.26770739",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdf8b48aa4c5.48075645",
+        "url": "http:\/\/viaf.org\/viaf\/50370849",
+        "name": "Harrison, Richard",
+        "dates": "1957-",
+        "notes": ""
+      },
+      {
+        "id": "60fdf8cff22004.28209487",
+        "url": "http:\/\/viaf.org\/viaf\/310616572",
+        "name": "Pataky, Jeremy",
+        "role": [
+          {
+            "id": "60fdf8d4c9b668.61247557",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdf8ed42aa84.41333497",
+        "url": "http:\/\/viaf.org\/viaf\/277601300",
+        "name": "Quednau, Marion",
+        "role": [
+          {
+            "id": "60fdf8f48c0577.98555069",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1952-",
+        "notes": ""
+      },
+      {
+        "id": "60fdf90f5058a9.98619318",
+        "url": "http:\/\/viaf.org\/viaf\/331148996078859752172",
+        "name": "Ganz, Rhonda",
+        "role": [
+          {
+            "id": "60fdf915688119.58123535",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1962-",
+        "notes": ""
+      },
+      {
+        "id": "60fdf9323fc4b2.44029957",
+        "url": "http:\/\/viaf.org\/viaf\/14114472",
+        "name": "Stenson, Susan",
+        "role": [
+          {
+            "id": "60fdf9e09cdef1.77463541",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfa0dc1a8d5.09698295",
+        "url": "http:\/\/viaf.org\/viaf\/65365111",
+        "name": "Hunter, Bruce",
+        "role": [
+          {
+            "id": "60fdfa122a3f16.21610254",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1952-",
+        "notes": ""
+      },
+      {
+        "id": "60fdfa33aea5a0.39871728",
+        "url": "http:\/\/viaf.org\/viaf\/4337417",
+        "name": "Wells, Zach",
+        "role": [
+          {
+            "id": "60fdfa38633829.60699217",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1976-",
+        "notes": ""
+      },
+      {
+        "id": "60fdfa56b06088.85146812",
+        "url": "http:\/\/viaf.org\/viaf\/12148207638700340940",
+        "name": "Narwani, Ulrike",
+        "role": [
+          {
+            "id": "60fdfa5a90ea12.33324101",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfa779c40a4.11477509",
+        "url": "http:\/\/viaf.org\/viaf\/45671250",
+        "name": "Rhenisch, Harold",
+        "role": [
+          {
+            "id": "60fdfa7c371847.51539759",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1958-",
+        "notes": ""
+      },
+      {
+        "id": "60fdfa9788b030.88929317",
+        "url": "http:\/\/viaf.org\/viaf\/104018009",
+        "name": "Nesbitt, Tom",
+        "role": [
+          {
+            "id": "60fdfa9b5a7727.62832037",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfab63fa017.99570156",
+        "url": "http:\/\/viaf.org\/viaf\/31427752",
+        "name": "Lahey, Anita",
+        "role": [
+          {
+            "id": "60fdfabb1f0017.88187335",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfaf3eb01d5.89379888",
+        "url": "",
+        "name": "Pendreigh, Kirsten ",
+        "role": [
+          {
+            "id": "60fdfafb214a61.34842287",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfb4f967665.80209925",
+        "url": "http:\/\/viaf.org\/viaf\/7160907090012691200",
+        "name": "Black, Barbara",
+        "role": [
+          {
+            "id": "60fdfb53c74ab8.50834860",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfb7e56fd91.20867219",
+        "url": "http:\/\/viaf.org\/viaf\/40751911",
+        "name": "Hynes, Maureen ",
+        "role": [
+          {
+            "id": "60fdfb82d29393.03447571",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfba2d1c669.43484844",
+        "url": "http:\/\/viaf.org\/viaf\/94378466",
+        "name": "Barton, John",
+        "role": [
+          {
+            "id": "60fdfba74e2520.19316431",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1957-",
+        "notes": ""
+      },
+      {
+        "id": "60fdfbc125f013.08784545",
+        "url": "http:\/\/viaf.org\/viaf\/67694150",
+        "name": "Carter, Terry Ann",
+        "role": [
+          {
+            "id": "60fdfbc5598ca8.67182408",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fdfbdc7ed6f5.14745845",
+        "url": "http:\/\/viaf.org\/viaf\/14158548588516350632",
+        "name": "Grand Ma\u00eetre, Marlene",
+        "role": [
+          {
+            "id": "60fdfbe5d28ea2.62065391",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1943-",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "60fdfc73678ca4.28306148",
+        "url": "https:\/\/www.openstreetmap.org\/?mlat=48.42595&mlon=-123.36437#map=19\/48.42595\/-123.36437&layers=N",
+        "notes": "\"Online Platform\": \"Zoom\"",
+        "venue": "Virtual Location",
+        "address": "709 Yates St, Victoria, BC V8W 1L0",
+        "latitude": "48.425930",
+        "longitude": "-123.364320"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60fdf456100625.99675008",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Sweet Water Anthology Launch",
+      "language": "English",
+      "title_note": "",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60fdfc14a943a3.72517874",
+        "side": "",
+        "image": "..\/Uploads\/8377\/Planet-Earth_2020-10-15_119036734_4318633181544737_2770619263667802909_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60fdfc2a058c04.61250671",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "02:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/planetearthpoetry\/photos\/gm.1360069500864560\/4318633178211404",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60fdfc3a2d46e3.70946050",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "Planet-Earth_2020-09-15_119036734_4318633181544737_2770619263667802909_n.jpg",
+        "file_path": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1KI00jrSDQ24Y6fspFItKYPp07vhul3-B",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/planetearthpoetry.com"
+    }
+  },
+
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8267",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60ee8bff0bb3a9.99238126",
+        "date": "2020-10-29",
+        "type": "Performance Date",
+        "notes": "This event took place on THURSDAY, OCTOBER 29, 2020 AT 6 PM eDT\n",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60ee8c2a69ab00.02544834",
+        "note": "Aaron Obedkoff",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "",
+      "contents": "\n59 people responded\nEvent by Attic Owl Reading Series\nOnline with Facebook Live\nPublic  \u00b7 Anyone on or off Facebook\nYou know the Attic Owl brings it to you every month but we're doubling up this October by celebrating 5 fabulous female authors! \u00c9milie Turmel, Anne Simpson, Emily Skov-Nielsen and Carolyne Van Der Meer are here to launch their newest publications! The Owls is also celebrating Canadian-Lebanese poet and chanteuse Reem Fayyad Abdel Samad! Save the date Owls and Owlettes!"
+    },
+    "Creators": [
+      {
+        "id": "60ee8abd1b60b3.77705384",
+        "url": "http:\/\/viaf.org\/viaf\/1152561485915441368",
+        "name": "Turmel, \u00c9milie",
+        "role": [
+          {
+            "id": "60ee8ac25ad973.11556956",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1988-",
+        "notes": ""
+      },
+      {
+        "id": "60ee8adae279e7.62304247",
+        "url": "http:\/\/viaf.org\/viaf\/30770424",
+        "name": "Simpson, Anne",
+        "role": [
+          {
+            "id": "60ee8adea7d700.38160923",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1956-",
+        "notes": ""
+      },
+      {
+        "id": "60ee8af3ab4c44.89473158",
+        "url": "http:\/\/viaf.org\/viaf\/171158669744727200239",
+        "name": "Skov-Nielsen, Emily",
+        "role": [
+          {
+            "id": "60ee8af71d5326.06092031",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1989-",
+        "notes": ""
+      },
+      {
+        "id": "60ee8b117dd4e8.47507153",
+        "url": "http:\/\/viaf.org\/viaf\/6276161819224227960002",
+        "name": "Van Der Meer, Carolyne ",
+        "role": [
+          {
+            "id": "60ee8b163f91c8.01154136",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1968-",
+        "notes": ""
+      },
+      {
+        "id": "60ee8b2d5518d5.75255788",
+        "url": "",
+        "name": "Samad, Reem Fayyad Abdel ",
+        "role": [
+          {
+            "id": "60ee8b318a8d79.59088261",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "60ee8c17cc2ed4.56698878",
+        "url": "https:\/\/www.openstreetmap.org\/?mlat=46.08843&mlon=-64.77853#map=18\/46.08843\/-64.77853",
+        "notes": "\"Online platform\": \"Facebook\"",
+        "venue": "Virtual Location",
+        "address": "785 Main St Moncton, NB, Canada E1C 1E9",
+        "latitude": "46.088630",
+        "longitude": "-64.778500"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60ee8a85ee13b7.69008760",
+          "value": "Reading: Poetry"
+        },
+        {
+          "id": "60ee8a89728229.84153488",
+          "value": "Reading: Fiction"
+        }
+      ],
+      "title": "Book Launch Extravaganza! with \u00c9milie Turmel, Anne Simpson, Emily Skov-Nielsen, Carolyne Van Der Meer, Reem Fayyad Abdel Samad",
+      "language": "English",
+      "title_note": "",
+      "series_title": "Attic Owl Reading Series",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60ee8b775c6b71.99637757",
+        "side": "",
+        "image": "..\/Uploads\/8267\/Attic-Owl_2020-11-29_122591272_3412815022116824_6693960535168049492_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60ee8b907879a3.08450351",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/atticowlreadings\/videos\/929860134207168",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Video Recording",
+        "channel_field": ""
+      },
+      {
+        "id": "60ee8ba5c50ae9.61814029",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1Lnl4-8Xbmz90XsOZx9yKm0dIIQrVNR9i",
+        "file_path": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1Lnl4-8Xbmz90XsOZx9yKm0dIIQrVNR9i",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/www.facebook.com\/atticowlreadings"
+    }
+  },
+
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8281",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60f07eec592601.79534721",
+        "date": "2020-04-23",
+        "type": "Performance Date",
+        "notes": "This event took place on THURSDAY, APRIL 23, 2020 AT 3 PM EDT \u2013 4 PM EDT",
+        "source": "Facebook post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60f07f59975b96.26133090",
+        "note": "Aaron Obedkoff",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "\n107 people responded\nEvent by Bookhug and National Arts Centre \/ Centre national des Arts\nLive on Instagram\nDuration: 1 hr\nPublic  \u00b7 Anyone on or off Facebook\nThanks to the National Arts Centre \/ Centre national des Arts, celebrated author Shani Mootoo will be doing a livestream reading from her the comfort of her home on Thursday, April 23, at 3pm EST on Instagram Live. Shani will read from her new novel, Polar Vortex.\nJoin Shani on Instagram at @shani_mootoo\nThe #CanadaPerforms series is co-sponsored by the National Arts Centre \/ Centre national des Arts, Facebook Canada, SiriusXM Canada, Slaight Music, and the RBC Foundation.\n__________\n\u201cPolar Vortex is an unsettling novel about how secrets always come back to get us \u2013 especially the secrets we\u2019ve managed to keep from ourselves.\u201d \u2014The Globe and Mail\n\"Apowerfully unsettling work from a brilliant artist.\u201d \u2014Madeleine Thien\n\"Polar Vortex is an honest, but also moving, exploration of true intimacy.\u201d \u2014Amitava Kumar\n\"A gorgeous and thrilling novel. Beautifully crafted, with perfect form and icy-clear tone\u2014Shani Mootoo held me under her spell until the shock and release of the last page!\u201d \u2014Sarah Selecky\n__________\nAbout Shani Mootoo:\nShani Mootoo was born in Ireland, grew up in Trinidad, and lives in Canada. She holds an MA in English from the University of Guelph, writes fiction and poetry, and is a visual artist whose work has been exhibited locally and internationally. Mootoo\u2019s critically acclaimed novels include Moving Forward Sideways Like a Crab, Valmiki\u2019s Daughter, He Drown She in the Sea, and Cereus Blooms at Night. She is a recipient of the K.M. Hunter Artist Award, a Chalmers Arts Fellowship, and the James Duggins Mid-Career Novelist Award from the Lambda Literary Awards. Her work has been long- and shortlisted for the Scotiabank Giller Prize, the International DUBLIN Literary Award, and the Booker Prize. She lives in Prince Edward County, Ontario.",
+      "contents": ""
+    },
+    "Creators": [
+      {
+        "id": "60f07e725803e6.29994144",
+        "url": "http:\/\/viaf.org\/viaf\/79160427",
+        "name": "Mootoo, Shani ",
+        "role": [
+          {
+            "id": "60f07e76e31a19.99985305",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1957-",
+        "notes": "Bio from Facebook post: Shani Mootoo was born in Ireland, grew up in Trinidad, and lives in Canada. She holds an MA in English from the University of Guelph, writes fiction and poetry, and is a visual artist whose work has been exhibited locally and internationally. Mootoo\u2019s critically acclaimed novels include Moving Forward Sideways Like a Crab, Valmiki\u2019s Daughter, He Drown She in the Sea, and Cereus Blooms at Night. She is a recipient of the K.M. Hunter Artist Award, a Chalmers Arts Fellowship, and the James Duggins Mid-Career Novelist Award from the Lambda Literary Awards. Her work has been long- and shortlisted for the Scotiabank Giller Prize, the International DUBLIN Literary Award, and the Booker Prize. She lives in Prince Edward County, Ontario."
+      }
+    ],
+    "Location": [
+      {
+        "id": "60f07f40b43931.05609504",
+        "url": "https:\/\/www.openstreetmap.org\/?mlat=43.64779&mlon=-79.39469#map=19\/43.64779\/-79.39469",
+        "notes": "\"Online platform\": \"Instagram\"",
+        "venue": "Virtual Location",
+        "address": "401 Richmond Street West, Suite 350 Toronto, ON, Canada M5V 3A8",
+        "latitude": "43.647900",
+        "longitude": "-79.395020"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60f07e50e21a05.39797445",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Canada Performs Livestream Reading with Shani Mootoo",
+      "language": "English",
+      "title_note": "",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60f07ea7c21e30.42175173",
+        "side": "",
+        "image": "..\/Uploads\/8281\/Bookhug_2020-04-23_92828220_3090657021001155_3187620836127277056_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60f07ebbc63a30.94612294",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "1:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/Bookhugpress\/photos\/gm.1056073384775017\/3090657017667822",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60f07eced2e5a2.32406750",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "Bookhug_2020-04-23_92828220_3090657021001155_3187620836127277056_n.jpg",
+        "file_path": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1ec_tvKRBZOUuJ9hxpD3lneYuIfvbJvWH",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/bookhugpress.ca"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8597",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "611586f8438013.01081809",
+        "date": "2021-05-23",
+        "type": "Performance Date",
+        "notes": "This event took place on SUNDAY, MAY 23, 2021 AT 2 PM EDT \u2013 3 PM EDT",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "6115873e122265.97935453",
+        "note": "Aaron Obedkoff",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "",
+      "contents": "\n1 hr\n10 people responded\nEvent by Les libraires, Librairie Drawn & Quarterly and 2 others\nOnline: quebecbd.com\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nTout au long du 34e Festival Qu\u00e9bec BD, nous collaborons avec le r\u00e9seau Les libraires pour vous offrir des occasions de rencontrer des auteur.e.s de bandes dessin\u00e9es qu\u00e9b\u00e9coises.\nAvec les d\u00e9dicaces virtuelles, l\u2019id\u00e9e est de cr\u00e9er un groupe compos\u00e9 d\u2019un maximum de 10 lectrices et lecteurs pr\u00eat.e.s \u00e0 \u00e9changer et vivre une s\u00e9ance de d\u00e9dicaces en vid\u00e9oconf\u00e9rence.\n- D\u00c9DICACE EN COURS -\nAUTEUR : Pascal Girard\nALBUM EN D\u00c9DICACE : Rebecca et Lucie m\u00e8nent l'enqu\u00eate (\u00c9ditions de La Past\u00e8que)\nLIBRAIRIE ASSOCI\u00c9E : Librairie Drawn & Quarterly\nDATE : Dimanche 23 mai 2021 \u00e0 14 h\n***????????? : ?????? ?? ????? ?? ???? ??? ???????????? ??-??????? ?????????? ??? ????? ?? ?????? ??? ??????????? ??? ?? ???? ????????????.?? ???? ?? ????? ????????.\nR\u00c9SERVER MA COPIE : https:\/\/drawnandquarterly.leslibraires.ca\/...\/rebecca-et...\nDATE LIMITE DE R\u00c9SERVATION : 22 MAI \u00c0 MIDI (heure du Qu\u00e9bec)\n????????????\nPour participer \u00e0 une s\u00e9ance de d\u00e9dicace virtuelle, vous devrez r\u00e9server une des dix copies de l\u2019album associ\u00e9 \u00e0 une librairie pr\u00e9cise. Seules les commandes en ligne via la librairie associ\u00e9e seront accept\u00e9es.\nAu moment de compl\u00e9ter votre achat en ligne, vous devrez inscrire \u00ab ???? ???????? \u00bb dans la section \u00ab ???? ??? ?? ???????? \u00bb.\nSi vous souhaitez participer \u00e0 plus d\u2019une s\u00e9ance de d\u00e9dicace virtuelle, assurez-vous que les deux albums sont associ\u00e9s \u00e0 la m\u00eame librairie. Si ce n'est pas le cas, vous devrez passez une commande par librairie diff\u00e9rente.\nNotez que vous \u00eates responsable de commander votre copie chez la bonne librairie.\nUn courriel de confirmation incluant les d\u00e9tails concernant la s\u00e9ance de d\u00e9dicace sera envoy\u00e9 par un membre de notre \u00e9quipe. Notez qu\u2019il y aura un d\u00e9lai entre l\u2019achat et ce courriel.\nNous inscrirons COMPLET dans la description de l\u2019\u00e9v\u00e9nement facebook et sur notre site web une fois les dix copies r\u00e9serv\u00e9es.\nSi vous ne pouvez pas \u00eatre pr\u00e9sent.e lors de la rencontre, votre copie sera quand m\u00eame d\u00e9dicac\u00e9e par l\u2019auteur.e si vous faites partie des 10 premi\u00e8res r\u00e9servations.\nSuite \u00e0 la rencontre, votre album d\u00e9dicac\u00e9 vous sera achemin\u00e9 selon la m\u00e9thode s\u00e9lectionn\u00e9e lors de l\u2019achat (par la poste ou chez la librairie associ\u00e9e). Pour tout achat de 39$ et plus chez le libraire partenaire, vous pourrez b\u00e9n\u00e9ficier d'une livraison gratuite.\nNotez que les s\u00e9ances de d\u00e9dicaces virtuelles vous sont offertes sans frais suppl\u00e9mentaires.\nPour toutes questions ou commentaires, contactez Maxime par courriel \u00e0 maxime@quebecbd.com. See Less\n"
+    },
+    "Creators": [
+      {
+        "id": "6115868a3a7f93.52084545",
+        "url": "http:\/\/viaf.org\/viaf\/24906583",
+        "name": "Pascal, Girard",
+        "role": [
+          {
+            "id": "6115869079f686.46940109",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "1990-",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "6115872b8fb7c0.13594177",
+        "url": "https:\/\/www.openstreetmap.org\/?mlat=45.52471&mlon=-73.60478#map=19\/45.52471\/-73.60479&layers=N",
+        "notes": "\"Online Platform\"",
+        "venue": "Virtual Location",
+        "address": "211 Rue Bernard O, Montr\u00e9al, QC",
+        "latitude": "45.52471",
+        "longitude": "-73.60478"
+      }
+    ],
+    "Related_Works": [
+      {
+        "id": "6115877a75a610.31433384",
+        "URL": "https:\/\/www.lapasteque.com\/rebbeca-et-lucie",
+        "citation": "Pascal Girard, Rebecca et Lucie m\u00e8nent l'enqu\u00eate, La Past\u00e8que, Montreal, 2021"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "6115866cee8b08.30853539",
+          "value": "Conversation"
+        },
+        {
+          "id": "6115867004b328.25340286",
+          "value": "Speeches: Question-and-answer period"
+        }
+      ],
+      "title": "D\u00e9dicace virtuelle - Pascal Girard - Rebecca et Lucie m\u00e8nent l'enqu\u00eate",
+      "language": "French",
+      "title_note": "",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "611586a65fb224.94523372",
+        "side": "",
+        "image": "..\/Uploads\/8597\/Librairie-DandQ_2021-05-23_186489788_5589132197825970_3781552721176992853_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "611586c0a496d1.38541854",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "01:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/festival.quebec.bd\/photos\/gm.376734793652853\/5589132194492637",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "611586da2d2358.51770006",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "",
+        "filename": "Librairie-DandQ_2021-05-23_186489788_5589132197825970_3781552721176992853_n.jpg",
+        "file_path": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1z2ifHUjEkl5-dupg_D4WZiUskYjiIS7u",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/mtl.drawnandquarterly.com\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8255",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60ed12046e5596.53390489",
+        "date": "2021-02-04",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60ed125f328ad7.08153293",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "54 people responded",
+      "contents": "Details\n2 hr\nEvent by Ilona Martonfi\nOnline Event\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nArgo Zoom Reading Series: Verse, Prose & Song\nThursday February 4, 2021 7 to 9 PM\nArgo Bookshop 1915 Ste. Catherine St. West\nhttps:\/\/www.argobookshop.ca\/\nHosted by Adele-Elise Prevost & Moti Lieberman 514.931.3442\nCurator Ilona Martonfi ilona.martonfi@sympatico.ca\nPlease email events@argobookshop.ca for the Zoom link\nLouise Dupr\u00e9 published 20 books, including The Haunted Hand (La main hant\u00e9e), translated by Donald Winkler, published by Guernica Editions 2020.\nIlona Martonfi is an editor, poet, curator & activist, her most recent poetry book is Salt Bride (Inanna, 2019). Forthcoming, The Tempest (Inanna, 2022).\nBlossom Thom\u2019s poems document Black experiences while playing with form. Her poetry has appeared in Montr\u00e9al Serai, Kola, and elsewhere.\nKelly Norah Drukker is the author of the award-winning poetry collection Small Fires. She is currently at work on new poetry and nonfiction.\nBrian Campbell, poet\/singer- songwriter\/editor\/translator, latest collections, Shimmer Report & Passenger Flight. briancampbell.ca\nAnn Lambert has been a playwright and teacher for over 35 years, and has just published her second novel.\nCora Sir\u00e9 is a poet, novelist and author of three books, including Behold Things Beautiful (Signature Editions, 2016).\nEmily Tristan Jones, she\u2019s been in The Puritan, Harvard Review, Vallum, and elsewhere. She facilitates for QWF and is editor of Columba."
+    },
+    "Creators": [
+      {
+        "id": "60ed0d12b920e6.66394948",
+        "url": " http:\/\/viaf.org\/viaf\/102818325",
+        "name": "Martonfi, Ilona",
+        "role": [
+          {
+            "id": "60ed0d40346732.48526451",
+            "value": "Presenter"
+          },
+          {
+            "id": "60ed0d44661657.56492002",
+            "value": "Series organizer"
+          },
+          {
+            "id": "60ed0d504e8a37.18402474",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1942-",
+        "notes": "Ilona refers to herself as the \"Curator\" of this series on the Facebook post, but she is effectively the series organizer\n\nIlona Martonfi is an editor, poet, curator & activist, her most recent poetry book is Salt Bride (Inanna, 2019). Forthcoming, The Tempest (Inanna, 2022)."
+      },
+      {
+        "id": "60ed0d8c30f338.79991845",
+        "url": "",
+        "name": "Lieberman, Moti",
+        "role": [
+          {
+            "id": "60ed0da33f0cb7.42641757",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "Moti is listed as the \"Host\" of the event on the Facebook post"
+      },
+      {
+        "id": "60ed0e62442768.91152456",
+        "url": "",
+        "name": "Prevost, Adele-Elise",
+        "role": [
+          {
+            "id": "60ed0e6c2a5871.17055148",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "Adele-Elise is listed as the \"Host\" of the event on the Facebook post"
+      },
+      {
+        "id": "60ed0f9d6b10b7.64037938",
+        "url": "http:\/\/viaf.org\/viaf\/1089156497263417740004",
+        "name": "Dupr\u00e9, Louise  ",
+        "role": [
+          {
+            "id": "60ed0fa45f32b3.23343952",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1949-",
+        "notes": "Louise Dupr\u00e9 published 20 books, including The Haunted Hand (La main hant\u00e9e), translated by Donald Winkler, published by Guernica Editions 2020."
+      },
+      {
+        "id": "60ed0fd5273a40.36884347",
+        "url": "",
+        "name": "Thom, Blossom ",
+        "role": [
+          {
+            "id": "60ed0fea4730d9.34554773",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Blossom Thom\u2019s poems document Black experiences while playing with form. Her poetry has appeared in Montr\u00e9al Serai, Kola, and elsewhere."
+      },
+      {
+        "id": "60ed105e810b90.97952865",
+        "url": "http:\/\/viaf.org\/viaf\/33146094193500330987",
+        "name": "Norah Drukker, Kelly",
+        "role": [
+          {
+            "id": "60ed106589c6d5.29404276",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1975-",
+        "notes": "Kelly Norah Drukker is the author of the award-winning poetry collection Small Fires. She is currently at work on new poetry and nonfiction."
+      },
+      {
+        "id": "60ed10a9bd39d0.17919278",
+        "url": "",
+        "name": "Campbell, Brian ",
+        "role": [
+          {
+            "id": "60ed10ce3a45e5.47390675",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Brian Campbell, poet\/singer- songwriter\/editor\/translator, latest collections, Shimmer Report & Passenger Flight. briancampbell.ca"
+      },
+      {
+        "id": "60ed110ad9a744.95359586",
+        "url": "",
+        "name": "Lambert, Ann ",
+        "role": [
+          {
+            "id": "60ed11107809b3.98286715",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Ann Lambert has been a playwright and teacher for over 35 years, and has just published her second novel."
+      },
+      {
+        "id": "60ed114da34850.61432443",
+        "url": "http:\/\/viaf.org\/viaf\/306379155",
+        "name": "Sir\u00e9, Cora ",
+        "role": [
+          {
+            "id": "60ed1157cf6cc4.68657079",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1957-",
+        "notes": "Cora Sir\u00e9 is a poet, novelist and author of three books, including Behold Things Beautiful (Signature Editions, 2016)."
+      },
+      {
+        "id": "60ed1187c1e585.53473339",
+        "url": "",
+        "name": "Tristan Jones, Emily ",
+        "role": [
+          {
+            "id": "60ed118ed34684.72924924",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Emily Tristan Jones, she\u2019s been in The Puritan, Harvard Review, Vallum, and elsewhere. She facilitates for QWF and is editor of Columba."
+      }
+    ],
+    "Location": [
+      {
+        "id": "60ed121f145c46.29220653",
+        "url": "https:\/\/www.openstreetmap.org\/node\/3649569755",
+        "notes": "\"Online platform\": \"Zoom\"",
+        "venue": "Virtual location",
+        "address": "1915 rue Sainte-Catherine ouest Montreal, QC, H3H 1M3, Canada",
+        "latitude": "45.49253",
+        "longitude": " -73.58068"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60ed0c58d7ed72.24057229",
+          "value": "Reading: Fiction"
+        },
+        {
+          "id": "60ed0c5e9059b1.50582670",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Argo Zoom Reading Series: Verse, Prose & Song",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "Argo Zoom Reading Series: Verse, Prose & Song",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60ed11b3d54718.67037657",
+        "side": "",
+        "image": "..\/Uploads\/8255\/Argo-Books_2020-08-06_108091653_3513275365369762_4798956322710175280_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60ed11d43fe8b4.37798313",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "2:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/2767894913483528\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60ed11e69c6aa9.91815482",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/photo?fbid=10157881811267742&set=gm.2767894930150193",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/www.argobookshop.ca\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8227",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60e9f9eb35bfb2.27685159",
+        "date": "2020-11-11",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60e9fad5e6b525.79194680",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "208 people responded",
+      "contents": "Details\n3 hr\nEvent by Metatron Press\nOnline: eventbrite.ca\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nJoin Metatron Press and a flurry of guest readers as we embark on a digital marathon reading of Diane Di Prima's Revolutionary Letters.\n\n???????? ????\nhttps:\/\/www.eventbrite.ca\/e\/127226256157\/\nMaximum 150 Guests\nFifty years ago, in 1968, Diane Di Prima began writing her \"revolutionary letters,\" a series of poems composed of a potent blend of utopian anarchism and ecological awareness, projected through a Zen-tinged feminist lens. In 1971, Lawrence Ferlinghetti published them in the first edition of Revolutionary Letters as Number 27 in the City Lights Pocket Poets Series. By turns a handbook of countercultural activity and a broadside against the repressive state apparatus, Revolutionary Letters remains one of the vital classics of American poetry.\nIn gathering writers from all over the world to share in reading this work, it is our hope to honour Diane Di Prima and, through reading, activate and absorb the important instructions and revelations she left us in these letters.\n\n?????????????\nThis event will be live captioned using Google Meet hardware. A PDF copy of the poems will be emailed to all registered attendees prior to the event, and a link to a PDF will be provided in the chat at the beginning of the reading. We will read 63 Revolutionary Letters together in varying length, which we project will take upwards of two hours to complete. We welcome you to email us at info@metatron-press.com if you have any further requests!\n\n?????????\nAd\u00e8le Barclay\nAlasdair Rees\nAlex Manley\nAli Pinkney\nAshley Obscura\nBara Hladik\nBrad Casey\nCason Sharpe)\nE. R. Pulgar\nEmily Brill\nFaith Par\u00e9\nIvanna Baranova\nJay Ritchie\nLeah Horlick\nLiz Bowen\nLora Mathis\nMarcela Huerta\nOlivia Wood\nPeace Oluwaseun Akintade\nRachelle Toarmino\nRuby Brunton\nSennah Yee\nShazia Hafiz-Ramji\nSofia Banzhaf\nSruti Islam\nTara McGowan Ross\nT\u00e9a Mutonji\nTess Liem"
+    },
+    "Creators": [
+      {
+        "id": "60e9f15000ece6.73043819",
+        "url": "http:\/\/viaf.org\/viaf\/18150516542503440276",
+        "name": "Barclay, Ad\u00e8le ",
+        "role": [
+          {
+            "id": "60e9f15611e1c7.50176313",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f18ccb62a2.27376731",
+        "url": "http:\/\/viaf.org\/viaf\/13161760500621642908",
+        "name": "Rees, Alasdair ",
+        "role": [
+          {
+            "id": "60e9f19215e731.26891688",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f1f156e1e9.82555550",
+        "url": "",
+        "name": "Manley, Alex ",
+        "role": [
+          {
+            "id": "60e9f1f6d5ad94.46688485",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f214ecddc6.69367497",
+        "url": "",
+        "name": "Pinkney, Ali ",
+        "role": [
+          {
+            "id": "60e9f21a75c562.30941999",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f257763093.74625412",
+        "url": "http:\/\/viaf.org\/viaf\/3153182651626791457",
+        "name": "Obscura, Ashley ",
+        "role": [
+          {
+            "id": "60e9f25d5ff965.60702545",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1988-",
+        "notes": ""
+      },
+      {
+        "id": "60e9f2da350e75.22818103",
+        "url": "",
+        "name": "Hladik, Bara ",
+        "role": [
+          {
+            "id": "60e9f3c7817d16.14415585",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f3de6993d0.67333791",
+        "url": "http:\/\/viaf.org\/viaf\/1151533614402771083",
+        "name": "Casey, Brad ",
+        "role": [
+          {
+            "id": "60e9f3fc9f75d2.34481915",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f446cdf769.06974174",
+        "url": "http:\/\/viaf.org\/viaf\/425159397308219300024",
+        "name": "Sharpe, Cason ",
+        "role": [
+          {
+            "id": "60e9f44c1f2c68.80202693",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f51f1a4923.29030488",
+        "url": "",
+        "name": "Pulgar, E. R. ",
+        "role": [
+          {
+            "id": "60e9f5259167b1.68091722",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f54d370017.04743396",
+        "url": "",
+        "name": "Brill, Emily ",
+        "role": [
+          {
+            "id": "60e9f552e42ad4.62264971",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f5831b5762.70549195",
+        "url": "",
+        "name": "Par\u00e9, Faith ",
+        "role": [
+          {
+            "id": "60e9f58890c156.93284259",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f5af5fc2c8.77135567",
+        "url": " http:\/\/viaf.org\/viaf\/20156809535545122000",
+        "name": "Baranova, Ivanna ",
+        "role": [
+          {
+            "id": "60e9f5b4b52aa3.43913805",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f5dbd04a74.87487788",
+        "url": "http:\/\/viaf.org\/viaf\/308751099",
+        "name": "Ritchie, Jay ",
+        "role": [
+          {
+            "id": "60e9f5e2001c68.78255180",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f60fd39df6.99593362",
+        "url": "http:\/\/viaf.org\/viaf\/254626329",
+        "name": "Horlick, Leah ",
+        "role": [
+          {
+            "id": "60e9f615985796.86734089",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f65bc39375.34273763",
+        "url": "http:\/\/viaf.org\/viaf\/44150380439513370875",
+        "name": "Bowen, Liz ",
+        "role": [
+          {
+            "id": "60e9f6626d8a52.02467547",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f68bd46cb1.74104704",
+        "url": "http:\/\/viaf.org\/viaf\/321150468294604171092",
+        "name": "Mathis, Lora ",
+        "role": [
+          {
+            "id": "60e9f691e19ff1.37734232",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f6b9da0570.81297128",
+        "url": " http:\/\/viaf.org\/viaf\/1151050030933412456",
+        "name": "Huerta, Marcela ",
+        "role": [
+          {
+            "id": "60e9f6c08ebf61.25306741",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f6fef0b512.14307271",
+        "url": "http:\/\/viaf.org\/viaf\/310611184",
+        "name": "Wood, Olivia ",
+        "role": [
+          {
+            "id": "60e9f707a2ae89.09036552",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f71ce37945.23856889",
+        "url": "",
+        "name": "Oluwaseun Akintade, Peace ",
+        "role": [
+          {
+            "id": "60e9f725d46cd5.71762020",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f74eb568c9.25723380",
+        "url": " http:\/\/viaf.org\/viaf\/17151533661202770280",
+        "name": "Toarmino, Rachelle ",
+        "role": [
+          {
+            "id": "60e9f75481e5a7.50555194",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f782397350.46433955",
+        "url": "",
+        "name": "Brunton, Ruby ",
+        "role": [
+          {
+            "id": "60e9f787f03970.95499893",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f7d3caa5a2.10533323",
+        "url": "http:\/\/viaf.org\/viaf\/1151352018952602557",
+        "name": "Yee, Sennah ",
+        "role": [
+          {
+            "id": "60e9f7daa0f758.58089860",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f807df1c80.22115772",
+        "url": "http:\/\/viaf.org\/viaf\/5153470811745080914",
+        "name": "Hafiz-Ramji, Shazia ",
+        "role": [
+          {
+            "id": "60e9f80dea1774.92612734",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f8315bf295.87686174",
+        "url": "http:\/\/viaf.org\/viaf\/1151533707002772609",
+        "name": "Banzhaf, Sofia ",
+        "role": [
+          {
+            "id": "60e9f83a4c2a73.94193980",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f8607eb077.21566449",
+        "url": "",
+        "name": "Islam, Sruti ",
+        "role": [
+          {
+            "id": "60e9f866371d49.97206984",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60e9f8b51ef104.30720539",
+        "url": "http:\/\/viaf.org\/viaf\/6643161152508135190009",
+        "name": "McGowan Ross, Tara ",
+        "role": [
+          {
+            "id": "60e9f8bb1cb3f2.01862046",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1992-",
+        "notes": ""
+      },
+      {
+        "id": "60e9f8fa62d204.43238857",
+        "url": "http:\/\/viaf.org\/viaf\/43154196714320111113",
+        "name": "Mutonji, T\u00e9a ",
+        "role": [
+          {
+            "id": "60e9f8ffe041c8.99236795",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1995-",
+        "notes": ""
+      },
+      {
+        "id": "60e9f9237f9c43.88721636",
+        "url": "http:\/\/viaf.org\/viaf\/4153182732826792769",
+        "name": "Liem, Tess ",
+        "role": [
+          {
+            "id": "60e9f92934bc75.44514995",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1985-",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "60e9fa95c80773.26129568",
+        "url": "https:\/\/www.openstreetmap.org\/way\/234842104#map=19\/45.54049\/-73.61249",
+        "notes": "\"Online platform\": \"Zoom\"",
+        "venue": "Virtual location",
+        "address": "7119 Saint Andre, Montreal, QC, Canada, H2S 2N1",
+        "latitude": "45.540560",
+        "longitude": "-73.612470"
+      }
+    ],
+    "Related_Works": [
+      {
+        "id": "60e9fb3ad414c5.57519016",
+        "URL": "https:\/\/www.worldcat.org\/title\/revolutionary-letters-etc\/oclc\/2546794&referer=brief_results",
+        "citation": "Revolutionary Letters, Diane Di Prima. San Francisco, California, City Light Books, 1974."
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60e9f11ddda7b2.52233781",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Revolutionary Letters: A Diane Di Prima Marathon Reading",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60e9f9864477d0.50055055",
+        "side": "",
+        "image": "..\/Uploads\/8227\/Metatron-Press_2020-11-11_123114355_3731068500271325_6975734664851748382_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60e9f9a67bad88.74884257",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "3:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/360910858540197\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60e9f9caea6423.58988523",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/metatronpress\/photos\/gm.360912031873413\/3731068486937993",
+        "filename": "Metatron-Press_2020-11-11_123114355_3731068500271325_6975734664851748382_n",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1ITyjTswfajL1tWX5_pcW5tWAk4zY62hO",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/www.metatron.press\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "7937",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60a678034adb78.41374924",
+        "date": "2021-04-20",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60e3bed0c0c8f8.33182862",
+        "note": "Sarah MacDonell",
+        "type": "Cataloguer"
+      },
+      {
+        "id": "60e3bedadd0a43.46815658",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "218 people responded",
+      "contents": "Details\nEvent by Coach House Books\nOnline: eventbrite.ca\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nJoin us for the launch of an important new anthology, Indigenous Toronto: Stories that Carry This Place.\n\nEditors Denise Bolduc, Mnawaate Gordon-Corbiere, Rebeka Tabobondung, and Brian Wright-McLeod will be in discussion and will take audience questions.\nBeneath many major North American cities rests a deep foundation of Indigenous history that has been colonized, paved over, and, too often, silenced. Few of its current inhabitants know that Toronto has seen twelve thousand years of uninterrupted Indigenous presence and nationhood in this region, along with a vibrant culture and history that thrives to this day.\nWith contributions by Indigenous Elders, scholars, journalists, artists, and historians, this unique anthology explores the poles of cultural continuity and settler colonialism that have come to define Toronto as a significant cultural hub and intersection that was also known as a Meeting Place long before European settlers arrived.\nContributors include political scientist Hayden King, artist and curator Wanda Nanibush, chef Johl Whiteduck Ringuette, poet and broadcaster Duke Redbird, playwright Drew Hayden Taylor, educator Kerry Potts, writer\/journalist Miles Morrisseau, dancer and scholar Karen Pheasant-Neganigwane, and photographer Nadya Kwandibens.\nPre-order Indigenous Toronto here!\nThis event will be hosted in Zoom Webinars. The event link will be sent over email one hour before the start of the event."
+    },
+    "Creators": [
+      {
+        "id": "60e3bc33e0b305.96856261",
+        "url": "http:\/\/viaf.org\/viaf\/213161272160347442119",
+        "name": "Gordon-Corbiere, Mnawaate",
+        "role": [
+          {
+            "id": "60e3be28597bf1.35115574",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1995-",
+        "notes": "Editor of anthology",
+        "nation": [
+          {
+            "id": "60e3bc7cb88fe6.02880640",
+            "value": "M'Chigeeng First Nation"
+          }
+        ]
+      },
+      {
+        "id": "60e3bb82564517.75726216",
+        "url": "http:\/\/viaf.org\/viaf\/146161272137047442057",
+        "name": "Bolduc, Denise",
+        "role": [
+          {
+            "id": "60e3be40736088.82179027",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1964-",
+        "notes": "Editor of anthology",
+        "nation": [
+          {
+            "id": "60e3bb947c7593.33166856",
+            "value": "Batchewana First Nation"
+          }
+        ]
+      },
+      {
+        "id": "60e3bbd2b51175.34596064",
+        "url": "http:\/\/viaf.org\/viaf\/98161272251147442871",
+        "name": "Tabobondung, Rebeka",
+        "role": [
+          {
+            "id": "60e3be4d026147.73275362",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1975-",
+        "notes": "Editor of anthology",
+        "nation": [
+          {
+            "id": "60e3bbe6e491a0.43028903",
+            "value": "Wasauksing First Nation"
+          }
+        ]
+      },
+      {
+        "id": "60e3bca5a54b76.16376438",
+        "url": "http:\/\/viaf.org\/viaf\/2769337",
+        "name": "Wright-McLeod, Brian",
+        "role": [
+          {
+            "id": "60e3be5bee1db4.03775734",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1958-",
+        "notes": "Editor of anthology",
+        "nation": [
+          {
+            "id": "60e3bcbb0a7b05.72942917",
+            "value": "Dakota\/Anishnabe"
+          }
+        ]
+      }
+    ],
+    "Location": [
+      {
+        "id": "60a6781094b241.69415939",
+        "url": "https:\/\/www.openstreetmap.org\/way\/401215962#map=19\/43.66615\/-79.40034",
+        "notes": "",
+        "venue": "Virtual Location",
+        "address": "80 bpNichol Lane, Toronto, Ontario, M5S 3J4, Canada",
+        "latitude": "43.666170",
+        "longitude": "-79.400360"
+      }
+    ],
+    "Contributors": [],
+    "Related_Works": [
+      {
+        "id": "60a6793d86a8f5.58908019",
+        "URL": "https:\/\/www.worldcat.org\/title\/indigenous-toronto-stories-that-carry-this-place\/oclc\/1144110106&referer=brief_results",
+        "citation": "Bolduc, Denise; Gordon-Corbiere, Mnawaate; Tabobondung, Rebeka; Wright-McLeod, Brian. Indigenous Toronto: Stories that Carry This Place. Toronto, Coach House, 2021. "
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60e3be99678ed1.73440679",
+          "value": "Speeches: Panels"
+        },
+        {
+          "id": "60e3be9f1142c0.54333184",
+          "value": "Speeches: Question-and-answer period"
+        }
+      ],
+      "title": "Indigenous Toronto Book Launch",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60a677e4896192.88558305",
+        "side": "",
+        "image": "..\/Uploads\/7937\/Coahc House_2021-04-20_171439647.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60a677f4bb3f09.38637057",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "1:30:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/148947740484236\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60e3bd40af0eb8.14482698",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/coachhousebooks\/photos\/gm.148947763817567\/4323530907676126",
+        "filename": "Coach-House_2021-04-20_171439647",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1WbgUW_0oiYHw_lPG0NMvRW31EAPumSkr",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/chbooks.com\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8288",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60f0b4a2a286a4.71367351",
+        "date": "2021-04-08",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60f0b56134eec4.86560334",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "64 people responded",
+      "contents": "Details\n2 hr\nEvent by Ilona Martonfi\nOnline Event\nPrice: Free\nPublic  \u00b7 Anyone on or off Facebook\nArgo Zoom Reading Series: Verse, Prose & Song Thursday April 8, 2021 7 PM to 9 PM Free\nArgo Bookshop 1915 Ste. Catherine St. West\nhttps:\/\/www.argobookshop.ca\/\nHosted by Adele-Elise Prevost & Moti Lieberman 514.931.3442\nCurator Ilona Martonfi ilona.martonfi@sympatico.ca\nPlease email events@argobookshop.ca for the Zoom link\nDevon Gallant is the author of four poetry collections including S(tars) & M(agnets) which bill bissett called \u2018a mirakul uv a book.\u2019\nSusan Elmslie\u2019s prize-winning poetry includes Museum of Kindness (Brick 2017) and I, Nadja, and Other Poems (Brick 2006). www.susan.elmslie.org\nIlona Martonfi is an editor, poet, curator & activist, her most recent poetry book is Salt Bride (Inanna, 2019). Forthcoming, The Tempest (Inanna, 2022).\nZsolt Alapi is an editor and publisher whose latest publication is his novel from DC Books, Landscape with the Fall of Icarus.\nMichael Reinhart is a visual artist & musician, with 5 albums, numerous dance, theatre & film scores to his credit since the early \u201880s.\nLady Rojas Benavente, the author of Water Star (2017), is the president of the Canadian literary criticism of Hispanic American women writers.\nWillow Loveday Little is a writer and editor whose work appears in places like The Dalhousie Review, On Spec, and yolk.\nMatthew Rettino's poetry has recently appeared in Lantern Magazine's Dream issue this past January.\nTommy Schnurmacher is a broadcaster, author, humorist, and raconteur. Main regret? Not having worked as performance artist."
+    },
+    "Creators": [
+      {
+        "id": "60f0b040597ce6.30855905",
+        "url": "http:\/\/viaf.org\/viaf\/102818325",
+        "name": "Martonfi, Ilona",
+        "role": [
+          {
+            "id": "60f0b046299322.17318182",
+            "value": "Series organizer"
+          },
+          {
+            "id": "60f0b052ab7a15.58240267",
+            "value": "Presenter"
+          },
+          {
+            "id": "60f0b058b49191.67334218",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1942-",
+        "notes": "Ilona refers to herself as the \"Curator\" of this series on the Facebook post, but she is effectively the series organizer.\n\nIlona Martonfi is an editor, poet, curator & activist, her most recent poetry book is Salt Bride (Inanna, 2019). Forthcoming, The Tempest (Inanna, 2022)."
+      },
+      {
+        "id": "60f0b07105df25.68846752",
+        "url": "",
+        "name": "Lieberman, Moti",
+        "role": [
+          {
+            "id": "60f0b07787b588.69600093",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "Moti is listed as the \"Host\" of the event on the Facebook post"
+      },
+      {
+        "id": "60f0b09453fb00.75082107",
+        "url": "",
+        "name": "Prevost, Adele-Elise",
+        "role": [
+          {
+            "id": "60f0b09cb81413.19686759",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "Adele-Elise is listed as the \"Host\" of the event on the Facebook post"
+      },
+      {
+        "id": "60f0b0f54ab418.91106734",
+        "url": "",
+        "name": "Gallant, Devon ",
+        "role": [
+          {
+            "id": "60f0b18a07c632.76895326",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Devon Gallant is the author of four poetry collections including S(tars) & M(agnets) which bill bissett called \u2018a mirakul uv a book.\u2019"
+      },
+      {
+        "id": "60f0b14d6f0777.71291999",
+        "url": "http:\/\/viaf.org\/viaf\/4628858",
+        "name": "Elmslie, Susan ",
+        "role": [
+          {
+            "id": "60f0b162b80a22.17860950",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1968-",
+        "notes": "Susan Elmslie\u2019s prize-winning poetry includes Museum of Kindness (Brick 2017) and I, Nadja, and Other Poems (Brick 2006). www.susan.elmslie.org"
+      },
+      {
+        "id": "60f0b1e3bac087.68290559",
+        "url": "http:\/\/viaf.org\/viaf\/58810573",
+        "name": "Alapi, Zsolt",
+        "role": [
+          {
+            "id": "60f0b1f4508f45.91421117",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1950-",
+        "notes": "Zsolt Alapi is an editor and publisher whose latest publication is his novel from DC Books, Landscape with the Fall of Icarus."
+      },
+      {
+        "id": "60f0b25daab464.16712965",
+        "url": "",
+        "name": "Reinhart, Michael ",
+        "role": [
+          {
+            "id": "60f0b263e67369.00434681",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Michael Reinhart is a visual artist & musician, with 5 albums, numerous dance, theatre & film scores to his credit since the early \u201880s."
+      },
+      {
+        "id": "60f0b2b6ed0272.13469784",
+        "url": "http:\/\/viaf.org\/viaf\/104736705",
+        "name": "Rojas Benavente, Lady ",
+        "role": [
+          {
+            "id": "60f0b2bc3f4a30.76707971",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1948-",
+        "notes": "Lady Rojas Benavente, the author of Water Star (2017), is the president of the Canadian literary criticism of Hispanic American women writers."
+      },
+      {
+        "id": "60f0b2f66ac063.15765205",
+        "url": "",
+        "name": "Loveday Little, Willow ",
+        "role": [
+          {
+            "id": "60f0b2ffa27a78.41426311",
+            "value": "Reader"
+          }
+        ],
+        "dates": "",
+        "notes": "Willow Loveday Little is a writer and editor whose work appears in places like The Dalhousie Review, On Spec, and yolk."
+      },
+      {
+        "id": "60f0b33139f018.54596644",
+        "url": "http:\/\/viaf.org\/viaf\/272711442",
+        "name": "Rettino, Matthew ",
+        "role": [
+          {
+            "id": "60f0b3394e07b7.83483993",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1991-",
+        "notes": "Matthew Rettino's poetry has recently appeared in Lantern Magazine's Dream issue this past January."
+      },
+      {
+        "id": "60f0b395a11965.15948088",
+        "url": "http:\/\/viaf.org\/viaf\/6999215",
+        "name": "Schnurmacher, Tommy  ",
+        "role": [
+          {
+            "id": "60f0b3b11e2838.90854370",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1951-",
+        "notes": "Tommy Schnurmacher is a broadcaster, author, humorist, and raconteur. Main regret? Not having worked as performance artist."
+      }
+    ],
+    "Location": [
+      {
+        "id": "60f0b4e4f41976.36746914",
+        "url": "https:\/\/www.openstreetmap.org\/node\/3649569755",
+        "notes": "\"Online platform\": \"Zoom\"",
+        "venue": "Virtual location",
+        "address": "1915 rue Sainte-Catherine ouest Montreal, QC, H3H 1M3, Canada",
+        "latitude": "45.49253",
+        "longitude": " -73.58068"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60f0aef418d602.85641297",
+          "value": "Reading: Fiction"
+        },
+        {
+          "id": "60f0aef9327919.24088412",
+          "value": "Reading: Poetry"
+        }
+      ],
+      "title": "Argo Zoom Reading Series: Verse, Prose & Song",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "Argo Zoom Reading Series: Verse, Prose & Song",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60f0b3d2aadcd0.42952295",
+        "side": "",
+        "image": "..\/Uploads\/8288\/Argo-Books_2020-08-06_108091653_3513275365369762_4798956322710175280_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60f0b3f4426be4.05466196",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "2:00:00",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/743990436249767\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60f0b4077fd203.14047338",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/photo?fbid=10158004413797742&set=gm.743990482916429",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/www.argobookshop.ca\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "7945",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60fb6a2d5ef2f3.91866615",
+        "date": "2020-07-21",
+        "type": "Performance Date",
+        "notes": "Tuesday July 21, 2020 - 1:00pm\nAt Home with D+Q with Seth\nhttps:\/\/www.instagram.com\/drawnandquarterly\/",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6a59bc9d27.11165068",
+        "date": "2020-07-22",
+        "type": "Performance Date",
+        "notes": "Wednesday July 22, 2020 - 8:00pm\nPowell's Books, Inc. with Randall Park\nhttps:\/\/zoom.us\/...\/3215935479630\/WN_xV1zAbSTQgKL9qhqqPLO5A",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6a76401cf3.85328297",
+        "date": "2020-07-23",
+        "type": "Performance Date",
+        "notes": "Thursday July 23, 2020 - 7:00pm\nBooks Are Magic with Wyatt Cenac\nhttps:\/\/us02web.zoom.us\/...\/reg...\/WN_m8E4d0G8SAmhf8X6u0RHSQ",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6a9fea5316.95194739",
+        "date": "2020-07-24",
+        "type": "Performance Date",
+        "notes": "Friday July 24, 2020 - 7:00pm\nHarvard Book Store with Leanne Shapton\nhttps:\/\/www.harvard.com\/event\/virtual_event_adrian_tomine\/",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6ae2e41077.05098624",
+        "date": "2020-07-25",
+        "type": "Performance Date",
+        "notes": "Saturday July 25, 2020 - 3:00pm\nPolitics and Prose Bookstore with Jason Zinoman\nhttps:\/\/www.politics-prose.com\/...\/pp-live-adrian-tomine...",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6af8d444a6.36148897",
+        "date": "2020-07-25",
+        "type": "Performance Date",
+        "notes": "Saturday July 25, 2020 - 7:00pm\nComic-Con International At Home, Adrian Tomine Spotlight Panel, with Malaka Gharib\nhttps:\/\/comiccon2020.sched.com\/...\/adrian-tomine...",
+        "source": "Facebook Post"
+      },
+      {
+        "id": "60fb6b1c1643b2.29381358",
+        "date": "2020-08-19",
+        "type": "Performance Date",
+        "notes": "Wednesday August 19, 2020 - 8:00pm\nComix Experience Graphic Novel Book Club\nhttps:\/\/www.comixexperience.com\/graphic-novel-club",
+        "source": "Facebook Post"
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60fb6b69ed40f9.77565155",
+        "note": "Sarah MacDonell",
+        "type": "Cataloguer"
+      },
+      {
+        "id": "60fb6b73cfc900.74543733",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "2 people responded",
+      "contents": "Details\nEvent by Drawn and Quarterly\nDuration: 1 hr\nPublic  \u00b7 Anyone on or off Facebook\nAdrian Tomine launches his highly anticipated graphic memoir The Loneliness of the Long-Distance Cartoonist with a series of virtual events in partnership with independent bookstores from around the United States.\nRegister now to hear Adrian interviewed by Wyatt Cenac, Malaka Gharib, Randall Park, Seth, Leanne Shapton, and Jason Zinoman!\nStay home, stay safe, stay connected.\nOrder your copy of The Loneliness of the Long-Distance Cartoonist directly from these bookstores to receive a special signed bookplate edition!\n\nVIRTUAL EVENTS:\nTuesday July 21, 2020 - 1:00pm\nAt Home with D+Q with Seth\nhttps:\/\/www.instagram.com\/drawnandquarterly\/\nWednesday July 22, 2020 - 8:00pm\nPowell's Books, Inc. with Randall Park\nhttps:\/\/zoom.us\/...\/3215935479630\/WN_xV1zAbSTQgKL9qhqqPLO5A\nThursday July 23, 2020 - 7:00pm\nBooks Are Magic with Wyatt Cenac\nhttps:\/\/us02web.zoom.us\/...\/reg...\/WN_m8E4d0G8SAmhf8X6u0RHSQ\nFriday July 24, 2020 - 7:00pm\nHarvard Book Store with Leanne Shapton\nhttps:\/\/www.harvard.com\/event\/virtual_event_adrian_tomine\/\nSaturday July 25, 2020 - 3:00pm\nPolitics and Prose Bookstore with Jason Zinoman\nhttps:\/\/www.politics-prose.com\/...\/pp-live-adrian-tomine...\nSaturday July 25, 2020 - 7:00pm\nComic-Con International At Home, Adrian Tomine Spotlight Panel, with Malaka Gharib\nhttps:\/\/comiccon2020.sched.com\/...\/adrian-tomine...\nWednesday August 19, 2020 - 8:00pm\nComix Experience Graphic Novel Book Club\nhttps:\/\/www.comixexperience.com\/graphic-novel-club\nAll event listings refer to Eastern time."
+    },
+    "Creators": [
+      {
+        "id": "60fb681eaae135.06630956",
+        "url": "http:\/\/viaf.org\/viaf\/106833127",
+        "name": "Cenac, Wyatt ",
+        "role": [
+          {
+            "id": "60fb6828bdad09.77562619",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb6831890ad6.76512863",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fb6892c2eee3.25875708",
+        "url": "http:\/\/viaf.org\/viaf\/44155707006922410701",
+        "name": "Gharib, Malaka ",
+        "role": [
+          {
+            "id": "60fb689ce4f083.28474376",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb68a11d9541.29326030",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fb68c8683217.55532829",
+        "url": "http:\/\/viaf.org\/viaf\/123144648431378896938",
+        "name": "Park, Randall ",
+        "role": [
+          {
+            "id": "60fb68ce48d562.81803053",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb68d3519261.95886863",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "1974-",
+        "notes": ""
+      },
+      {
+        "id": "60fb68e3bea258.17672802",
+        "url": "",
+        "name": "Seth",
+        "role": [
+          {
+            "id": "60fb68ea8671a0.30271840",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb68f133d285.72063257",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      },
+      {
+        "id": "60fb67a8e78da6.81676088",
+        "url": "http:\/\/viaf.org\/viaf\/85842663",
+        "name": "Tomine, Adrian ",
+        "role": [
+          {
+            "id": "60fb67aea3fbc1.70264282",
+            "value": "Reader"
+          },
+          {
+            "id": "60fb68fb3f0ba0.57829154",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "1974-",
+        "notes": ""
+      },
+      {
+        "id": "60fb69280bc968.99985080",
+        "url": "http:\/\/viaf.org\/viaf\/16613446",
+        "name": "Shapton, Leanne ",
+        "role": [
+          {
+            "id": "60fb692d7d1c28.16519509",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb693198e033.03464091",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "1973-",
+        "notes": ""
+      },
+      {
+        "id": "60fb6988968e82.98468651",
+        "url": "http:\/\/viaf.org\/viaf\/160910914",
+        "name": "Zinoman, Jason ",
+        "role": [
+          {
+            "id": "60fb698e0abc19.12860595",
+            "value": "Interviewer"
+          },
+          {
+            "id": "60fb69921c5830.03375028",
+            "value": "Speaker"
+          }
+        ],
+        "dates": "",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "60fb6b476da8f0.26159942",
+        "url": "",
+        "notes": "\"Online platform\": \"Zoom\"",
+        "venue": "Virtual location",
+        "address": "211 Rue Bernard O, Montr\u00e9al, QC H2T 2K5",
+        "latitude": "45.524790",
+        "longitude": "-73.604750"
+      }
+    ],
+    "Contributors": [],
+    "Related_Works": [
+      {
+        "id": "60fb6bb4b8abc1.15752132",
+        "URL": "https:\/\/www.worldcat.org\/title\/loneliness-of-the-long-distance-cartoonist\/oclc\/1228839413&referer=brief_results",
+        "citation": "Tomine, Adrian. The Loneliness of the Long-Distance Cartoonist, Drawn & Quarterly, 2020."
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60ad56d7c56f40.58511476",
+          "value": "Conversation"
+        },
+        {
+          "id": "60fb6d34a3ef07.86707792",
+          "value": "Reading: Fiction"
+        }
+      ],
+      "title": "Adrian Tomine's virtual book tour",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60ad5713e11762.32183642",
+        "side": "",
+        "image": "..\/Uploads\/7945\/Drawn and Quarterly_2020-08-19_109251051.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60ad574aeafd87.81985643",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/3564234676938140\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60fb69f9da3fb0.86607813",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/drawnandquarterly\/photos\/gm.3564234743604800\/10158440337271870",
+        "filename": "Drawn-and-Quarterly_2020-08-19_109251051",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1rGfhqUlQYyHb2B1H7-biuNoYoHGa_PQa",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "https:\/\/drawnandquarterly.com\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8495",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "6108592575de56.40524313",
+        "date": "2021-03-10",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "61085973b33da1.31326483",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "106 people responded",
+      "contents": "Details\nEvent by Metonymy Press, Librairie Racines and 2 others\nOnline Event\nPublic  \u00b7 Anyone on or off Facebook\nIn honour of the newly released picture book DEAR BLACK GIRLS, join Montreal artists and community members Shanice Nicole, Kezna Dalz, Maguy M\u00e9tellus, and Nantali Indongo for a celebratory intergenerational discussion.\nThis is a free online event in collaboration with Librairie Racines.\nPlease register in advance:\nhttps:\/\/us02web.zoom.us\/...\/reg...\/WN_Kml_iKWyQA-CbyjF8e64mg\nThe even will also be on FB Live and Closed-captioning will be provided.\nOrder your copy of the book from Racines here: https:\/\/tinyurl.com\/y4dte2v4\n\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\nDEAR BLACK GIRLS is a letter to all Black girls. Every single day poet and educator Shanice Nicole is reminded of how special Black girls are and of how lucky she is to be one. Illustrations by Kezna Dalz support the book\u2019s message that no two Black girls are the same but they are all special\u2014that to be a Black girl is a true gift. In this celebratory poem, Kezna and Shanice remind young readers that despite differences, they all deserve to be loved just the way they are.\n\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\nSHANICE NICOLE is a Black feminist educator, facilitator, writer, and (out)spoken word artist. She believes that everyone has the power to make change and dreams of a freer world for us all. Learn more about her work at shanicenicole.com.\nKEZNA DALZ is a multidisciplinary Black artist from Montreal. She cares about representation, and portrays the beauty of womanhood, teenadult angst, and the worst of pop culture using vibrant colours. You can find more of her work at teenadultt.com.\nMAGUY M\u00c9TELLUS is a Haitiano-Quebecoise mother, grandmother, militante afrof\u00e9ministe, human rights advocate, diseuse and animatrice. In May 2016 she co-founded the Lectures Logos Readings with H. Nigel Thomas and the late Horace I. Goddard. Over the past twenty years she has become a staple in the community. She now revels in her new status as a beloved elder.\nDaughter of parents from small Caribbean islands who, in Canada, became activists by circumstance, NANTALI INDONGO follows those natural instincts; carrying the torch into classrooms and communities, into studios and onto stages, with master's tools and microphones; exposing to educate, rhyming to rouse. All of that, so that the top tips over and humbles itself; the bottom sees the booby traps and makes an educated move.\nAs an artist, for the last 16 years, Nantali found her voice as Tali Taliwah, one of the emcees - vocalists in Montreal hip hop band Nomadic Massive. Touring Canada and the world, Tali loves to celebrate not only hip hop culture, but especially Caribbean musical cultures through some of her rhymes and vocal styles.\nThe life of the artist on stage was coupled with life as an artivist, for 10 years, sharing an educational and interactive workshop series that looks at the non-violent origins of Hip Hop culture. \u201cHip Hop No Pop\u201d series that she co-created with founder and filmmaker, Maryse Legagneur, brought Nantali into communities and schools, specifically across Canada, to the US, to Haiti, Democratic Republic of Congo and Australia.\nAs an informal educator, broadcaster or performer, Nantali is a storyteller. Her sense of purpose: to push conversations forward to a place where positive inspiration becomes positive action.\nHer 7 year old son is her spiritual healer."
+    },
+    "Creators": [
+      {
+        "id": "6108572bb0b5c4.40621146",
+        "url": "http:\/\/viaf.org\/viaf\/132158669737427200640",
+        "name": "Nicole, Shanice ",
+        "role": [
+          {
+            "id": "61085737c67309.87540816",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1992-",
+        "notes": "SHANICE NICOLE is a Black feminist educator, facilitator, writer, and (out)spoken word artist. She believes that everyone has the power to make change and dreams of a freer world for us all. Learn more about her work at shanicenicole.com."
+      },
+      {
+        "id": "61085776570535.65349519",
+        "url": "http:\/\/viaf.org\/viaf\/73158669742827200325",
+        "name": "Dalz, Kezna ",
+        "role": [
+          {
+            "id": "610857815e34a7.90371056",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "1996-",
+        "notes": "KEZNA DALZ is a multidisciplinary Black artist from Montreal. She cares about representation, and portrays the beauty of womanhood, teenadult angst, and the worst of pop culture using vibrant colours. You can find more of her work at teenadultt.com."
+      },
+      {
+        "id": "610857cfaf28e3.93557175",
+        "url": "",
+        "name": "M\u00e9tellus, Maguy  ",
+        "role": [
+          {
+            "id": "610857dc2483e2.52431766",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "MAGUY M\u00c9TELLUS is a Haitiano-Quebecoise mother, grandmother, militante afrof\u00e9ministe, human rights advocate, diseuse and animatrice. In May 2016 she co-founded the Lectures Logos Readings with H. Nigel Thomas and the late Horace I. Goddard. Over the past twenty years she has become a staple in the community. She now revels in her new status as a beloved elder."
+      },
+      {
+        "id": "61085800639f98.56219559",
+        "url": "",
+        "name": "Nantali",
+        "role": [
+          {
+            "id": "61085808ecec05.91666275",
+            "value": "Presenter"
+          }
+        ],
+        "dates": "",
+        "notes": "As an informal educator, broadcaster or performer, Nantali is a storyteller. Her sense of purpose: to push conversations forward to a place where positive inspiration becomes positive action."
+      }
+    ],
+    "Location": [
+      {
+        "id": "6108594bdd6671.04549380",
+        "url": "https:\/\/www.openstreetmap.org\/way\/731988814#map=19\/45.53884\/-73.60846",
+        "notes": "",
+        "venue": "Virtual location",
+        "address": "6847 rue St-Hubert Montreal, QC H2S 2M7",
+        "latitude": "45.538750",
+        "longitude": " -73.608530"
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "610857943c2289.07628137",
+          "value": "Conversation"
+        }
+      ],
+      "title": "DEAR BLACK GIRLS: Shanice Nicole, Kezna Dalz, Maguy M\u00e9tellus & Nantali Indongo in conversation",
+      "language": "English",
+      "title_note": "Online Event",
+      "series_title": "",
+      "title_source": "Facebook Post",
+      "subseries_title": "",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "610858bc6fb994.78061265",
+        "side": "",
+        "image": "..\/Uploads\/8495\/Metonymy-Press_2021-03-10_156420059_3670929623024529_1322991608453509603_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "610858e5ba14b3.21861460",
+        "size": "",
+        "notes": "Event began at 7PM",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/185678706329023\/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "6108590a7bf6a4.66302648",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/metonymypress\/photos\/gm.185678749662352\/3670929619691196",
+        "filename": "Metonymy-Press_2021-03-10_156420059_3670929623024529_1322991608453509603_n",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/1CSThwNoRTR3CWQqXdP6l2trS2fWlsw9W",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": " http:\/\/www.metonymypress.com\/"
+    }
+  },
+  {
+    "schema": "Swallow JSON",
+    "schema_version": "3",
+    "swallow_id": "8364",
+    "cataloguer": {
+      "name": "Spoken",
+      "lastname": "Web",
+      "email": "spokenwebcanada@gmail.com"
+    },
+    "partner institution": "Archive of the Digital Present",
+    "collection": {
+      "contributing unit": "",
+      "source_collection": "ArgoBooks",
+      "source_collection_description": "\"Description\": \"Argo Bookshop is the oldest English-language independent bookstore in Montreal, located in the Shaughnessy Village since 1966. We're proud to offer a well-curated selection of fiction and non-fiction, including literature, poetry, science fiction and fantasy, science, philosophy, history, and biography. We also have sizable sections of young adult fiction and kids' books. We specialize in books on linguistics and Japan, as well as books on marginalized groups and by marginalized authors, including books on race, gender, and queer issues.\",\r\n\"Wikidata\": \"https:\/\/www.wikidata.org\/wiki\/Q99472627\",\r\n\"Contact Email\": \"info@argobookshop.ca\",\r\n\"Twitter\": \"@ArgoBookshop\",\r\n\"Facebook\": \"https:\/\/www.facebook.com\/argobookshop\",\r\n\"Organization Website\": https:\/\/www.argobookshop.ca\/",
+      "source_collection_id": ""
+    },
+    "Dates": [
+      {
+        "id": "60fa34abd29784.69611740",
+        "date": "2021-02-10",
+        "type": "Performance Date",
+        "notes": "",
+        "source": ""
+      }
+    ],
+    "Notes": [
+      {
+        "id": "60fa369c3aee41.44109023",
+        "note": "Salena Wiener",
+        "type": "Cataloguer"
+      }
+    ],
+    "Content": {
+      "notes": "65 people responded",
+      "contents": "Details\nEvent by Accent Open Mic\nOnline: us02web.zoom.us\nPublic  \u00b7 Anyone on or off Facebook\nThe Accent Reading Series and Cactus Press is pleased to announce the launch event for Ilona Martonfi's new poetry chapbook \"Black Rain\". A collection of poems ranging in free verse, ekphrastic poetry, prose poems, haiku, tanka, and haibun. This event will be followed with an open mic. Come one, come all. "
+    },
+    "Creators": [
+      {
+        "id": "60fa337d803fa3.34466598",
+        "url": " http:\/\/viaf.org\/viaf\/5156312289102080828",
+        "name": "Chiasson, Luc-Antoine ",
+        "role": [
+          {
+            "id": "60fa3383163d05.47502439",
+            "value": "Series organizer"
+          }
+        ],
+        "dates": " 1983-",
+        "notes": "Bio from Organization Website: N\u00e9 \u00e0 Shippagan, NB en 1989, vit \u00e0 Montr\u00e9al depuis 2009. Il partage son temps entre l\u2019\u00e9criture et les arts visuels."
+      },
+      {
+        "id": "60fa33a3dbd9d6.55179379",
+        "url": "",
+        "name": "Gallant, Devon",
+        "role": [
+          {
+            "id": "60fa33aa0f0087.34754903",
+            "value": "Series organizer"
+          }
+        ],
+        "dates": "",
+        "notes": "Bio from Organization Website: Devon Gallant is the author of four collections of poetry The Day After, the flower dress and other lines, His Inner Season, and S(tars) & M(agnets). His work has been previously published in Vallum, Carousel, Misunderstandings Magazine, Bitterzoet Magazine and elsewhere. He is the founder and publisher of Cactus Press. [devongallant.wordpress.com][cactuspresspoetry.wordpress.com]"
+      },
+      {
+        "id": "60fa33f40632c2.25517499",
+        "url": "http:\/\/viaf.org\/viaf\/102818325",
+        "name": "Martonfi, Ilona ",
+        "role": [
+          {
+            "id": "60fa33f9bb3a32.44452855",
+            "value": "Reader"
+          }
+        ],
+        "dates": "1942-",
+        "notes": ""
+      }
+    ],
+    "Location": [
+      {
+        "id": "60fa34c73af660.90651152",
+        "url": "",
+        "notes": "\"Online platform\": \"Zoom\"",
+        "venue": "Virtual location",
+        "address": "5043 Saint Denis St, Montreal, Quebec, H2J 2L8",
+        "latitude": "45.532580",
+        "longitude": "-73.601890"
+      }
+    ],
+    "Related_Works": [
+      {
+        "id": "60fa39f69b20e3.31754274",
+        "URL": "",
+        "citation": "Martonfi, Ilona. Black Rain, Cactus Press, 2021."
+      }
+    ],
+    "Item_Description": {
+      "genre": [
+        {
+          "id": "60fa3333759769.37852165",
+          "value": "Reading: Poetry"
+        },
+        {
+          "id": "60fa33377ba1d0.59527330",
+          "value": "Reading: Fiction"
+        }
+      ],
+      "title": "\"Black Rain\" by Ilona Martonfi - Cactus Press Chapbook Launch (+ Open Mic)",
+      "language": "English, French",
+      "title_note": "Online Event",
+      "series_title": "The Accent Reading Series",
+      "title_source": "Facebook Post",
+      "subseries_title": "Accent Open Mic",
+      "production_context": "Internet recording"
+    },
+    "Material_Description": [
+      {
+        "id": "60fa3440d05aa9.24554725",
+        "side": "",
+        "image": "..\/Uploads\/8364\/Accent-Open-Mic_2021-02-10_139795577_896019577832324_321536530945114233_n.jpg",
+        "other": "",
+        "extent": "-1",
+        "AV_type": "-1",
+        "tape_brand": "",
+        "generations": "",
+        "Conservation": "",
+        "equalization": "",
+        "playback_mode": "-1",
+        "playing_speed": "-1",
+        "sound_quality": "-1",
+        "recording_type": "Digital",
+        "storage_capacity": "",
+        "physical_condition": "",
+        "track_configuration": "-1",
+        "material_designation": "-1",
+        "physical_composition": "-1",
+        "accompanying_material": "",
+        "other_physical_description": ""
+      }
+    ],
+    "Digital_File_Description": [
+      {
+        "id": "60fa3479e634e9.81601284",
+        "size": "",
+        "notes": "Event began at 8PM",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "-1",
+        "file_url": "https:\/\/www.facebook.com\/events\/336051804144433?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D",
+        "filename": "",
+        "file_path": "",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "-1",
+        "channel_field": ""
+      },
+      {
+        "id": "60fa349c5a94f7.13944567",
+        "size": "",
+        "notes": "",
+        "title": "",
+        "credit": "",
+        "bitrate": "",
+        "caption": "",
+        "contents": "",
+        "duration": "",
+        "encoding": "",
+        "featured": "Yes",
+        "file_url": "https:\/\/www.facebook.com\/accentopenmic\/photos\/gm.336051830811097\/896019574498991",
+        "filename": "Accent-Poetry-Series_2021-02-10_139795577_896019577832324_321536530945114233_n",
+        "file_path": "https:\/\/drive.google.com\/drive\/folders\/13r5qecOsW7VXh8eIMjVgyJWASLTO69XH",
+        "precision": "",
+        "sample_rate": "",
+        "content_type": "Poster",
+        "channel_field": ""
+      }
+    ],
+    "Institution_and_Collection": {
+      "item_ID": "",
+      "persistent_URL": "http:\/\/accentseriesmontreal.wordpress.com\/"
+    }
+  }
+
+
+
+]
