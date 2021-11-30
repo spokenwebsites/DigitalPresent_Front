@@ -1,0 +1,74 @@
+#bundling{
+    background-color: #303030;
+    align-content:center;
+  }
+  
+  .node {
+    font: 300 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding:1px !important;
+    
+    /* fill: #FFFFFF; */
+  }
+  
+  
+  .node:hover {
+    /* fill: rgb(14, 217, 224); */
+    fill:#FCD788
+  }
+  
+  .link {
+    stroke: steelblue;
+    stroke-opacity: 0.4;
+    fill: none;
+    pointer-events: none;
+  }
+  
+  .node:hover,
+  .node--source,
+  .node--target {
+    font-weight: 700;
+   }
+  
+  .node--source {
+  
+    fill: #2ca02c;
+  }
+  
+  .node--target {
+    fill: #d62728;
+  }
+  
+  
+  .link--source,
+  .link--target {
+    stroke-opacity: 1;
+    stroke-width: 2px;
+  }
+  
+  .link--source {
+    stroke: #d62728;
+  }
+  
+  .node--target {
+    stroke: #2ca02c;
+  }
+  
+  .color{
+    fill: darkgoldenrod !important;
+    font-size: large;
+  }
+  .container{
+    width:100% !important
+  } 
+
+  /* classes used for the nodes */
+
+  .creator{
+  fill:#d62728
+  }
+  
+  .events{
+  fill:green
+  
+  }
+  
