@@ -6061,7 +6061,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Quebec",
+                "STATE_NAME": "QC",
                 "STATE_CODE": 1,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -13347,7 +13347,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Newfoundland and Labrador",
+                "STATE_NAME": "NFL",
                 "STATE_CODE": 5,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -19281,7 +19281,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "British Columbia",
+                "STATE_NAME": "BC",
                 "STATE_CODE": 6,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -57923,7 +57923,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Nunavut",
+                "STATE_NAME": "NV",
                 "STATE_CODE": 12,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -64733,7 +64733,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Northwest Territories",
+                "STATE_NAME": "NWT",
                 "STATE_CODE": 13,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -65503,7 +65503,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "New Brunswick",
+                "STATE_NAME": "NB",
                 "STATE_CODE": 7,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -67153,7 +67153,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Nova Scotia",
+                "STATE_NAME": "NS",
                 "STATE_CODE": 2,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -67463,7 +67463,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Saskatchewan",
+                "STATE_NAME": "SN",
                 "STATE_CODE": 3,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -67981,7 +67981,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Alberta",
+                "STATE_NAME": "AB",
                 "STATE_CODE": 4,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -68407,7 +68407,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Prince Edward Island",
+                "STATE_NAME": "PEI",
                 "STATE_CODE": 8,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -69397,7 +69397,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Yukon Territory",
+                "STATE_NAME": "YT",
                 "STATE_CODE": 9,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -69955,7 +69955,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Manitoba",
+                "STATE_NAME": "MN",
                 "STATE_CODE": 10,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"
@@ -71949,7 +71949,7 @@
                 ]
             },
             "properties": {
-                "STATE_NAME": "Ontario",
+                "STATE_NAME": "ON",
                 "STATE_CODE": 11,
                 "created_at": "2014-10-16T13:22:00Z",
                 "updated_at": "2014-10-16T13:22:00Z"

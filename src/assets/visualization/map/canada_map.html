@@ -3,17 +3,17 @@
 	<head>
 		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 		<meta charset="utf-8">
-		<title>Getting started with map visualization</title>
+		<title> map visualization</title>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
         <script src="https://d3js.org/d3.v4.js"></script>
         <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
         <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
 		<style type="text/css">
-		body {
+		   body {
 				margin: 0;
-				background-color: whitesmoke;
-				font-family: 'Times New Roman', sans-serif;
+				background-color: #333333;
+				font-family: 'Avenir Next', sans-serif;
 				font-weight: 300;
 			}
 
@@ -23,7 +23,7 @@
 				margin-right: auto;
 				margin-top: 50px;
 				padding: 5px 50px 10px 50px;
-				background-color: whitesmoke;
+				/* background-color: whitesmoke; */
 			}
 
 			h1 {
@@ -39,17 +39,47 @@
 			}
 
 			svg {
-				background-color: whitesmoke;
+				/* background-color: #333333; */
 			}
 			.map{
-				background-color: #303030;
-    align-content:center;
+				background-color: #333333;
+    			align-content:center;
+			}
+			.body{
+				background-color: #333333;
+				overflow: visible;
+				width:100%
+			}
+			.eventslst20{
+				fill:rgba(253, 228, 175, .3) !important
+			}
+			.eventslst40{
+				fill:rgba(243, 185, 102, .5) !important
+			}
+			.eventslst60{
+				fill:rgba(231, 149, 54, .3) !important
+			}
+			.eventslst80{
+				fill:rgba(231, 149, 54, .5) !important
+			}
+			.eventslst100{
+				fill:rgba(137, 48, 37, .5) !important
+			}
+			.default{
+				fill:rgba(137, 48, 37, .7) !important
+				}
+			.provincesbg{
+				/* fill:rgb(240, 154, 93) !important */
+				fill:rgba(244, 244, 244, .2) !important
+			}
+			.statestext{
+				fill:#f4f4f4;
 			}
 
 
 		</style>
 	</head>
-	<body >
+	<body class="body" >
 		<div id="svgcontainer">
 	
 		<div id="svganchor"></div>
@@ -116,7 +146,9 @@
 				   .attr("d", path)
                    .attr("stroke", "dimgray")
                    .style("opacity", 1)
-				   .attr("fill", function(d, i) {return states_color(i)})
+				   .attr("class","provincesbg")
+				//    .attr("fill", function(d, i) {
+				// 	   return states_color(i)})
 				   .each(function(){
 						var sel = d3.select(this);
 						sel.moveToBack();
@@ -127,10 +159,11 @@
 					.data(json.features)
 					.enter()
 					.append("text")
-					.attr("fill", "darkslategray")
+					// .attr("fill", "darkslategray")
 					.attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
 					.attr("text-anchor", "middle")
     				.attr("dy", ".35em")
+					.attr("class","statestext")
 					.text(function(d) {
 						return d.properties.STATE_NAME;
 					});
@@ -148,16 +181,16 @@
 			});
 			
 			function move() {
-  var t = d3.event.translate,
-      s = d3.event.scale;
-  t[0] = Math.min(width / 2 * (s - 1), Math.max(width / 2 * (1 - s), t[0]));
-  t[1] = Math.min(height / 2 * (s - 1) + 230 * s, Math.max(height / 2 * (1 - s) - 230 * s, t[1]));
-  zoom.translate(t);
-  g.style("stroke-width", 1 / s).attr("transform", "translate(" + t + ")scale(" + s + ")");
+					var t = d3.event.translate,
+						s = d3.event.scale;
+					t[0] = Math.min(width / 2 * (s - 1), Math.max(width / 2 * (1 - s), t[0]));
+					t[1] = Math.min(height / 2 * (s - 1) + 230 * s, Math.max(height / 2 * (1 - s) - 230 * s, t[1]));
+					zoom.translate(t);
+					g.style("stroke-width", 1 / s).attr("transform", "translate(" + t + ")scale(" + s + ")");
 }
 
 			// Add circles:
-            d3.csv("events.csv", function(data) {
+            d3.csv("final.csv", function(data) {
 
 			// Create a color scale
 			var allContinent = d3.map(data, function(d){return(d.homecontinent)}).keys()
@@ -169,7 +202,7 @@
 			var valueExtent = d3.extent(data, function(d) { return +d.n; })
 			var size = d3.scaleSqrt()
 				.domain(valueExtent)  // What's in the data
-				.range([ 10, 20])  // Size of circle in pixel
+				.range([ 8, 10])  // Size of circle in pixel
 
 			var tooltip = d3.select("body")
 				.append("div")
@@ -191,10 +224,35 @@
 				.attr("cx", function(d){ return projection([+d.homelon, +d.homelat])[0] })
 				.attr("cy", function(d){ return projection([+d.homelon, +d.homelat])[1] })
 				.attr("r", function(d){ return size(+d.n +1) + 2 })
-				.style("fill", function(d){ return color(d.state)})
+				.attr("class", function(d){
+					console.log(d)
+					if(d.n<20){
+						return "eventslst20"
+					}
+					else if(d.n<40 && d.n>20){
+						return "eventslst40"
+					}
+					else if(d.n<60 && d.n>40){
+						return "eventslst60"
+					}
+					else if(d.n<80 && d.n>60){
+						return "eventslst80"
+					}
+					else if(d.n<100 && d.n>80){
+						return "eventslst100"
+					}
+					else {
+						return "default"
+					}
+
+				})
+				
 				.attr("stroke", function(d){ if(d.n>2000){return "black"}else{return "none"}  })
 				.attr("stroke-width", 1)
 				.attr("fill-opacity", 0.6)
+				.on("click",function(d){
+						alert(d);
+				})
 				.on("mouseover", function(){
 					return tooltip.style("visibility", "visible");
 				})
@@ -207,10 +265,7 @@
 					return tooltip.style("visibility", "hidden");
 					});
 				});
-
-
-
-		
+				
 		</script>
 	</body>
 </html>
