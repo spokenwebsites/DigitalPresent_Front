@@ -1,7 +1,7 @@
 try {
 
 
-      var diameter = 650,
+      var diameter = 700,
             radius = diameter / 2,
             innerRadius = radius - 120;
 
