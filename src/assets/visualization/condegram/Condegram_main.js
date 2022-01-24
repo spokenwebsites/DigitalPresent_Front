@@ -208,3 +208,48 @@ var width = 500,
         alert(d["date"]);
       });
 });
+
+
+d3.json("Spiralcondegram_final.json", function (error,data) {
+
+  function tabulate(data, columns) {
+		var table = d3.select('.condegramtable').append('table')
+		var thead = table.append('thead')
+		var	tbody = table.append('tbody');
+
+		// append the header row
+		thead.append('tr')
+		  .selectAll('th')
+		  .data(columns).enter()
+		  .append('th')
+      .attr("class","tr_th_class")
+		  .text(function (column) { return column; });
+
+		// create a row for each object in the data
+		var rows = tbody.selectAll('tr')
+		  .data(data)
+		  .enter()
+		  .append('tr');
+
+		// create a cell in each row for each column
+		var cells = rows.selectAll('td')
+		  .data(function (row) {
+		    return columns.map(function (column) {
+		      return {column: column, value: row[column]};
+		    });
+		  })
+		  .enter()
+		  .append('td')
+      .attr("class","td_class")
+		  .text(function (d) { return d.value; });
+
+	  return table;
+	}
+
+	// render the table(s)
+	tabulate(data, ['date', 'value']); // 2 column table
+
+});
+
+
+

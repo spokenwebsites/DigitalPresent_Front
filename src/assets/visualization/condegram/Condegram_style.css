@@ -133,3 +133,16 @@ fill:#D6771F !important
       font: 10px "avenir next";
       fill: grey ;
 }
+
+.tr_th_class{
+
+  border-collapse: collapse;
+  border:2px black solid;
+  color:#CFDAE6
+}
+
+.td_class{
+  border:1px green solid;
+  padding:5px;
+  color:#CFDAE6;
+}
