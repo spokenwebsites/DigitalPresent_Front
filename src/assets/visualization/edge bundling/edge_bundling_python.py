@@ -16,9 +16,8 @@ json_file.close()
 dict_creators_name=[]
 
 Events_withcount=[]
-connections={"name":"","size":"","imports":[]}
-json_obj={}
-json_obj['events']=[]
+
+json_obj=[]
 count_creators=[]
 arr_creators=[]
 
@@ -34,13 +33,14 @@ for i in range(len(deserialised_json)):
             dict_creators_name.append(creator)
             if "name" in deserialised_json[i]["Creators"][j]:
                   count_creators =  {i:dict_creators_name.count(i) for i in dict_creators_name}
-                                    
-Events_withcount =dict(itertools.islice(sorted(count_creators.items(),key=operator.itemgetter(1),reverse=True),10))
 
+#applying sort in descending order:
+#could be used to display the top creators in the html table
+Events_withcount =dict(itertools.islice(sorted(count_creators.items(),key=operator.itemgetter(1),reverse=True),10))
 for creator in Events_withcount:
-  json_obj["events"].append({
+  json_obj.append({
     'name':creator,
-    'color':"Red",
+    'type':"ind_creator",
     'imports':[]
     })  
 
@@ -60,7 +60,7 @@ for i in range(len(deserialised_json)):
                 arr_creators.append(creator)
                 concatenatedstring+= creator+ ",:"               
         if concatenatedstring!="":
-          json_obj['events'].append({
+          json_obj.append({
           'name':re.sub("[^0-9a-zA-Z]+","",deserialised_json[i]["collection"]["source_collection"])+"."+ re.sub("[^0-9a-zA-Z.]+"," ",deserialised_json[i]["Item_Description"]["title"]+'"'),
             'imports':arr_creators
             })                              
