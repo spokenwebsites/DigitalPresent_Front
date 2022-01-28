@@ -40,7 +40,7 @@ var width = 500,
 
 
 
-  d3.json("Spiralcondegram_final.json", function (error, data) {
+  d3.json("spiral_condegram_final.json", function (error, data) {
       if (error) throw error;
   var color = d3.scaleOrdinal(d3.schemeCategory10)  
 //   var color = d3.scaleSequential(d3.interpolate("Orange","Red"))
@@ -210,7 +210,7 @@ var width = 500,
 });
 
 
-d3.json("Spiralcondegram_final.json", function (error,data) {
+d3.json("spiral_condegram_final.json", function (error,data) {
 
   function tabulate(data, columns) {
 		var table = d3.select('.condegramtable').append('table')
