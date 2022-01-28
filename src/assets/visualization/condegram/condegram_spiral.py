@@ -2,6 +2,7 @@
 import json
 from types import new_class
 from datetime import datetime
+import csv
 
 json_file= open('bypartnerinstitution.json','r',encoding="utf-8")
 data=json_file.read()
@@ -18,21 +19,31 @@ for i in range(len(deserialised_json)):
      #this counts the date and add to the array
     Events_withcount = {i:Count_events.count(i) for i in Count_events}
 
-json_obj={}
-json_obj['dates']=[]
+
+json_obj=[]
+
+# with open('condegram.csv', 'r', newline='') as file:
+#       header = ['date','count']
+#       writer = csv.writer(file)
+#       writer.writerow(header)
+#       myreader = csv.reader(file, delimiter=',')
+#       next(myreader, None)
 
 for vdate in Events_withcount:
 
      formatted_date = datetime.strptime(vdate, '%Y-%m-%d')
      updateformat=datetime.strftime(formatted_date,'%m-%d-%Y')
-     json_obj['dates'].append({
+     row=(formatted_date,updateformat)
+     
+     json_obj.append({
         
         'date':updateformat,
         'value':Events_withcount[vdate]
      })
-  
+
+
 # the json file where the output must be stored 
-out_file = open("Spiralcondegram_final.json", "w") 
+out_file = open("Spiral_condegram_final.json", "w") 
 #dumps json into the file.
 json.dump(json_obj, out_file, indent = 6) 
 out_file.close() 
